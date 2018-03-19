@@ -1,0 +1,10 @@
+package: github.com/tonychee7000/Arremi
+import:
+- package: github.com/andlabs/ui
+- package: github.com/jacobsa/go-serial
+  subpackages:
+  - serial
+- package: github.com/tonychee7000/arremi
+  subpackages:
+  - backend
+- package: github.com/youpy/go-coremidi
