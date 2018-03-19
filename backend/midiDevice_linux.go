@@ -37,7 +37,7 @@ func (midiDev *MIDIDevice) Init() error {
 
 	cDevName := C.CString(consts.ClientName)
 	defer C.free(unsafe.Pointer(cDevName))
-	status = C.new_client(cDevName)
+	status = int(C.new_client(cDevName))
 	if status != 0 {
 		stage, errCode := resolveErrCode(status)
 		switch stage {
@@ -52,7 +52,7 @@ func (midiDev *MIDIDevice) Init() error {
 
 	cPortName := C.CString(consts.SourceName)
 	defer C.free(unsafe.Pointer(cPortName))
-	status = C.new_port(cPortName)
+	status = int(C.new_port(cPortName))
 	if status != 0 {
 		return fmt.Errorf("Error while createing sequencer port. %d", status)
 	}
@@ -64,7 +64,7 @@ func (midiDev *MIDIDevice) Write(p []byte) (int, error) {
 	midiDev.Signal <- 1
 	cData := (*C.CChar)(unsafe.Pointer(&p[0]))
 	defer C.free(unsafe.Pointer(cData))
-	var status = C.send_data(cData, C.int(len(p)))
+	var status = int(C.send_data(cData, C.int(len(p))))
 	if status != 0 {
 		stage, errCode := resolveErrCode(status)
 		switch stage {
