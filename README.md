@@ -1,7 +1,9 @@
 Arremi
 =====
 
-Arremi is a simple router from serial to MIDI
+![Screen Shot](ScreenShot.png)
+
+Arremi is a simple driver/router from serial to MIDI
 
 Now only for OSX
 
