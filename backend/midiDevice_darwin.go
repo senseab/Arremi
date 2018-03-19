@@ -9,7 +9,7 @@ import (
 type MIDIDevice struct {
 	client midi.Client
 	source midi.Source
-	Signal chan midi.Packet
+	Signal chan int
 }
 
 // NewMIDIDevice construction func
@@ -23,7 +23,7 @@ func NewMIDIDevice() (*MIDIDevice, error) {
 func (midiDev *MIDIDevice) Init() error {
 	var err error
 
-	midiDev.Signal = make(chan midi.Packet, 4096)
+	midiDev.Signal = make(chan int, 4096)
 	midiDev.client, err = midi.NewClient(consts.ClientName)
 	if err != nil {
 		return err
@@ -35,7 +35,7 @@ func (midiDev *MIDIDevice) Init() error {
 
 func (midiDev *MIDIDevice) Write(p []byte) (int, error) {
 	var pack = midi.NewPacket(p, 0)
-	midiDev.Signal <- pack
+	midiDev.Signal <- 1
 	err := pack.Received(&(midiDev.source))
 	return len(p), err
 }

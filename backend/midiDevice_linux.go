@@ -1,15 +1,25 @@
 package backend
 
+/*
+#ifndef ARREMI
+#define ARREMI
+#cgo LDFLAGS: -lasound
+#include "alsa_wrapper/alsa_wrapper.h"
+#endif
+*/
 import (
+	"C"
+	"unsafe"
+)
+import (
+	"fmt"
+
 	"github.com/tonychee7000/Arremi/consts"
-	midi "github.com/youpy/go-coremidi"
 )
 
 // MIDIDevice implies a Writer interface.
 type MIDIDevice struct {
-	client midi.Client
-	source midi.Source
-	Signal chan midi.Packet
+	Signal chan int
 }
 
 // NewMIDIDevice construction func
@@ -21,23 +31,52 @@ func NewMIDIDevice() (*MIDIDevice, error) {
 
 // Init the client and source
 func (midiDev *MIDIDevice) Init() error {
-	var err error
+	var status int
 
-	midiDev.Signal = make(chan midi.Packet, 4096)
-	midiDev.client, err = midi.NewClient(consts.ClientName)
-	if err != nil {
-		return err
+	midiDev.Signal = make(chan int, 4096)
+
+	cDevName := C.CString(consts.ClientName)
+	defer C.free(unsafe.Pointer(cDevName))
+	status = C.new_client(cDevName)
+	if status != 0 {
+		stage, errCode := resolveErrCode(status)
+		switch stage {
+		case 1:
+			return fmt.Errorf("Error while opening sequencer. %d", errCode)
+		case 2:
+			return fmt.Errorf("Error while getting sequencer id. %d", errCode)
+		case 3:
+			return fmt.Errorf("Error while setting sequencer name. %d", errCode)
+		}
 	}
 
-	midiDev.source, err = midi.NewSource(midiDev.client, consts.SourceName)
-	return err
+	cPortName := C.CString(consts.SourceName)
+	defer C.free(unsafe.Pointer(cPortName))
+	status = C.new_port(cPortName)
+	if status != 0 {
+		return fmt.Errorf("Error while createing sequencer port. %d", status)
+	}
+
+	return nil
 }
 
 func (midiDev *MIDIDevice) Write(p []byte) (int, error) {
-	var pack = midi.NewPacket(p, 0)
-	midiDev.Signal <- pack
-	err := pack.Received(&(midiDev.source))
-	return len(p), err
+	midiDev.Signal <- 1
+	cData := (*C.CChar)(unsafe.Pointer(&p[0]))
+	defer C.free(unsafe.Pointer(cData))
+	var status = C.send_data(cData, C.int(len(p)))
+	if status != 0 {
+		stage, errCode := resolveErrCode(status)
+		switch stage {
+		case 1:
+			return 0, fmt.Errorf("Error while creating MIDI event. %d", errCode)
+		case 2:
+			return 0, fmt.Errorf("Error while encoding MIDI event. %d", errCode)
+		case 3:
+			return 0, fmt.Errorf("Error while sending data. %d", errCode)
+		}
+	}
+	return len(p), nil
 }
 
 // AllNoteOff I don't want panic!
@@ -47,4 +86,8 @@ func (midiDev *MIDIDevice) AllNoteOff() {
 			midiDev.Write([]byte{byte(0x90 + i), byte(j), 0})
 		}
 	}
+}
+
+func resolveErrCode(int code) (int, int) {
+	return code >> 16, code & 0xffff
 }
