@@ -8,12 +8,10 @@ package backend
 #include "alsa_wrapper/alsa_wrapper.h"
 #endif
 */
-import (
-	"C"
-	"unsafe"
-)
+import "C"
 import (
 	"fmt"
+	"unsafe"
 
 	"github.com/tonychee7000/Arremi/consts"
 )
