@@ -2,6 +2,11 @@
 
 export BUILD_BASE=build
 
+function get_go_ver(){
+    GOVER=`go version|awk '{print $3}'`
+    export GOVER
+}
+
 function get_os() {
     OS=`uname|tr '[:upper:]' '[:lower:]'`
     if [ "${GOOS}x" != "x" ]; then
@@ -27,7 +32,11 @@ function main() {
     rm -rf build
     mkdir -p $BUILD_BASE
     get_os
-    case OS
+    get_go_ver
+    if [ $GOVER == 'go1.10' ]; then
+        export CGO_LDFLAGS_ALLOW=".*"
+    fi
+    case $OS
         darwin)
             build_darwin
         ;;
