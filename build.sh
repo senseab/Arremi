@@ -24,6 +24,7 @@ function build_linux() {
 }
 
 function main() {
+    rm -rf build
     mkdir -p $BUILD_BASE
     get_os
     case OS
