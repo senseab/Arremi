@@ -61,7 +61,7 @@ func (midiDev *MIDIDevice) Init() error {
 
 func (midiDev *MIDIDevice) Write(p []byte) (int, error) {
 	midiDev.Signal <- 1
-	cData := (*C.CChar)(unsafe.Pointer(&p[0]))
+	cData := (*C.char)(unsafe.Pointer(&p[0]))
 	defer C.free(unsafe.Pointer(cData))
 	var status = int(C.send_data(cData, C.int(len(p))))
 	if status != 0 {
