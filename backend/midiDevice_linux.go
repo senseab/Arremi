@@ -4,6 +4,7 @@ package backend
 #ifndef ARREMI
 #define ARREMI
 #cgo LDFLAGS: -lasound
+#include <stdlib.h>
 #include "alsa_wrapper/alsa_wrapper.h"
 #endif
 */
