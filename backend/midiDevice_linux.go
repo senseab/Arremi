@@ -3,10 +3,9 @@ package backend
 /*
 #ifndef ARREMI
 #define ARREMI
-#cgo CFLAGS: -Ialsa_wrapper
 #cgo LDFLAGS: -lasound
 #include <stdlib.h>
-#include "alsa_wrapper/alsa_wrapper.h"
+#include "alsa_wrapper.h"
 #endif
 */
 import "C"
@@ -88,6 +87,6 @@ func (midiDev *MIDIDevice) AllNoteOff() {
 	}
 }
 
-func resolveErrCode(int code) (int, int) {
+func resolveErrCode(code int) (int, int) {
 	return code >> 16, code & 0xffff
 }

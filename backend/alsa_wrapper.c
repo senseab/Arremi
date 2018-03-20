@@ -13,7 +13,7 @@ int new_client(char* client_name) {
         return 2<<16|status;
     }
 
-    status = snd_seq_client_name(seq_handle, client_name);
+    status = snd_seq_set_client_name(seq_handle, client_name);
     if (status < 0) {
         return 3<<16|status;
     }
@@ -23,7 +23,7 @@ int new_client(char* client_name) {
 }
 
 int new_port(char* port_name) {
-    seq_port = snd_seq_create_simple_port(seq_handle, portname, 
+    seq_port = snd_seq_create_simple_port(seq_handle, port_name, 
                 SND_SEQ_PORT_CAP_READ|SND_SEQ_PORT_CAP_SUBS_READ,
                 SND_SEQ_PORT_TYPE_MIDI_GENERIC|SND_SEQ_PORT_TYPE_APPLICATION);
     if (seq_port < 0) {
