@@ -18,7 +18,7 @@ import (
 func NewClient(name string) error {
 	cDevName := C.CString(name)
 	defer C.free(unsafe.Pointer(cDevName))
-	status = int(C.new_client(cDevName))
+	var status = int(C.new_client(cDevName))
 	if status != 0 {
 		stage, errCode := resolveErrCode(status)
 		switch stage {
@@ -36,7 +36,7 @@ func NewClient(name string) error {
 func NewPort(name string) error {
 	cPortName := C.CString(name)
 	defer C.free(unsafe.Pointer(cPortName))
-	status = int(C.new_port(cPortName))
+	var status = int(C.new_port(cPortName))
 	if status != 0 {
 		return fmt.Errorf("Error while createing sequencer port. %d", status)
 	}
