@@ -30,6 +30,7 @@ func NewClient(name string) error {
 			return fmt.Errorf("Error while setting sequencer name. %d", errCode)
 		}
 	}
+	return nil
 }
 
 // NewPort to reigister new MIDI port.
@@ -40,6 +41,7 @@ func NewPort(name string) error {
 	if status != 0 {
 		return fmt.Errorf("Error while createing sequencer port. %d", status)
 	}
+	return nil
 }
 
 // SendData to ALSA
@@ -51,13 +53,14 @@ func SendData(p []byte) error {
 		stage, errCode := resolveErrCode(status)
 		switch stage {
 		case 1:
-			return 0, fmt.Errorf("Error while creating MIDI event. %d", errCode)
+			return fmt.Errorf("Error while creating MIDI event. %d", errCode)
 		case 2:
-			return 0, fmt.Errorf("Error while encoding MIDI event. %d", errCode)
+			return fmt.Errorf("Error while encoding MIDI event. %d", errCode)
 		case 3:
-			return 0, fmt.Errorf("Error while sending data. %d", errCode)
+			return fmt.Errorf("Error while sending data. %d", errCode)
 		}
 	}
+	return nil
 }
 
 func resolveErrCode(code int) (int, int) {

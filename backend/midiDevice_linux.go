@@ -36,7 +36,10 @@ func (midiDev *MIDIDevice) Init() error {
 
 func (midiDev *MIDIDevice) Write(p []byte) (int, error) {
 	midiDev.Signal <- 1
-	alsa.SendData(p)
+	err := alsa.SendData(p)
+	if err != nil {
+		return 0, err
+	}
 	return len(p), nil
 }
 
