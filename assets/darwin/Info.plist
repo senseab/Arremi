@@ -7,9 +7,9 @@
 	<key>CFBundleGetInfoString</key>
 	<string>MIDI Driver for Arduino from USB serial.</string>
 	<key>CFBundleIconFile</key>
-	<string>AppIcon</string>
+	<string>Arremi</string>
 	<key>CFBundleIconName</key>
-	<string>AppIcon</string>
+	<string>Arremi</string>
 	<key>CFBundleIdentifier</key>
 	<string>top.wetofu.arremi</string>
 	<key>CFBundlePackageType</key>

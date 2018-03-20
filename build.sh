@@ -15,6 +15,8 @@ function build_darwin() {
     mkdir -p $INSTALL_TARGET/MacOS
     go build -o $INSTALL_TARGET/MacOS/Arremi main.go
     cp assets/darwin/Info.plist $INSTALL_TARGET
+    mkdir -p $INSTALL_TARGET/Resources
+    (cd assets/darwin/ && iconutil --convert icns Arremi.iconset --file ../../$INSTALL_TARGET/Resources/Arremi.icns)
 }
 
 function build_linux() {
@@ -26,7 +28,7 @@ function main() {
     get_os
     case OS
         darwin)
-
+            build_darwin
         ;;
         linux)
         ;;

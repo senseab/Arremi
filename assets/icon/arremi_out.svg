@@ -1,0 +1,2581 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93333 270.93334" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="XMLID_12_-7" x1="126" x2="126" y1="116.3" y2="175.64" gradientTransform="translate(-51,-76)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#FEFEFD" offset=".2918"/>
+   <stop style="stop-color:#FBF9F5" offset=".4294"/>
+   <stop style="stop-color:#F6F1E8" offset=".5347"/>
+   <stop style="stop-color:#EFE6D6" offset=".6236"/>
+   <stop style="stop-color:#E5D8BE" offset=".7022"/>
+   <stop style="stop-color:#D9C6A1" offset=".7734"/>
+   <stop style="stop-color:#CBB17E" offset=".8392"/>
+   <stop style="stop-color:#b95" offset=".9007"/>
+   <stop style="stop-color:#960" offset="1"/>
+  </linearGradient>
+  <linearGradient id="XMLID_13_-5" x1="318.38" x2="424.58" y1="-107.11" y2="-107.11" gradientTransform="matrix(0 1 1 0 182.11 -309.11)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#FFFEFD" offset=".3651"/>
+   <stop style="stop-color:#FEFBF5" offset=".5373"/>
+   <stop style="stop-color:#FCF7E8" offset=".669"/>
+   <stop style="stop-color:#FAF0D6" offset=".7802"/>
+   <stop style="stop-color:#F1D894" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient19672" x1="334.36" x2="355.11" y1="-70.63" y2="-91.38" gradientTransform="matrix(0 1 1 0 182.11 -309.11)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -26.067)">
+  <g transform="matrix(0 -1.0311 1.0218 0 -14.742 232.41)">
+   <g partID="17714840">
+    <g transform="translate(170.67 22.506)">
+     <g transform="rotate(90)">
+      <g id="breadboardbreadboard" gorn="0.2">
+       <g id="icon" gorn="0.2.0">
+        <path d="m200.85 0 4.32 4.32v32.4l7.199 7.2v92.879l-7.199 7.201v4.36c0 1.565-1.271 2.837-2.834 2.837h-2e-3 -181.53c-1.565 0-2.834-1.271-2.834-2.834v-3e-3 -145.53c0-1.565 1.269-2.834 2.834-2.834h180.05m-0.217 50.4c-4e-3 2.505 2.023 4.539 4.527 4.543 2.506 4e-3 4.539-2.023 4.545-4.528v-0.016c4e-3 -2.505-2.023-4.539-4.528-4.543s-4.539 2.022-4.544 4.527v0.017zm0 79.2c-4e-3 2.505 2.023 4.539 4.527 4.543 2.506 4e-3 4.539-2.021 4.545-4.527v-0.016c4e-3 -2.505-2.023-4.539-4.528-4.543-2.505-6e-3 -4.539 2.021-4.544 4.527v0.016zm-144-122.4c-4e-3 2.504 2.023 4.539 4.528 4.543 2.504 4e-3 4.539-2.022 4.543-4.527v-0.016c4e-3 -2.505-2.024-4.539-4.529-4.542s-4.539 2.024-4.542 4.529v0.013zm-3.6 136.8c-3e-3 2.504 2.024 4.537 4.529 4.541s4.539-2.023 4.542-4.528v-0.013c4e-3 -2.506-2.024-4.539-4.529-4.543s-4.538 2.021-4.542 4.525v0.018zm107.73 0c-1e-3 0.664 0.536 1.205 1.202 1.207 0.664 2e-3 1.205-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.537-1.207-1.201-1.209-0.666 0-1.207 0.537-1.208 1.203v6e-3zm7.2 0c-2e-3 0.664 0.537 1.205 1.201 1.207 0.666 2e-3 1.207-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.666 0-1.207 0.537-1.207 1.203v6e-3zm7.2 0c0 0.664 0.537 1.205 1.203 1.207s1.205-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.537-1.207-1.201-1.209-0.666 0-1.207 0.537-1.209 1.203v6e-3zm7.201 0c-2e-3 0.664 0.536 1.205 1.201 1.207 0.666 2e-3 1.206-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.666 0-1.205 0.537-1.207 1.203v6e-3zm7.199 0c-2e-3 0.664 0.537 1.205 1.202 1.207s1.206-0.537 1.208-1.203v-4e-3c1e-3 -0.666-0.537-1.207-1.203-1.209-0.665 0-1.205 0.537-1.207 1.203v6e-3zm7.2 0c-1e-3 0.664 0.536 1.205 1.202 1.207 0.664 2e-3 1.205-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.537-1.207-1.201-1.209-0.666 0-1.207 0.537-1.208 1.203v6e-3zm0.219-79.2c-1e-3 0.744 0.601 1.348 1.345 1.349s1.352-0.601 1.352-1.344v-4e-3c2e-3 -0.744-0.604-1.347-1.348-1.348s-1.348 0.601-1.349 1.344v3e-3zm7.2 0c-1e-3 0.744 0.602 1.348 1.344 1.349 0.744 1e-3 1.348-0.601 1.35-1.344v-4e-3c0-0.744-0.602-1.347-1.344-1.348-0.744-1e-3 -1.349 0.601-1.35 1.344v3e-3zm-7.2 7.2c-1e-3 0.744 0.601 1.347 1.345 1.349 0.744 1e-3 1.352-0.601 1.352-1.345v-4e-3c2e-3 -0.744-0.604-1.347-1.348-1.349-0.744-1e-3 -1.348 0.601-1.349 1.345v4e-3zm7.2 0c-1e-3 0.744 0.602 1.347 1.344 1.349 0.744 1e-3 1.348-0.601 1.35-1.345v-4e-3c0-0.744-0.602-1.347-1.344-1.349-0.744-1e-3 -1.349 0.601-1.35 1.345v4e-3zm-7.2 7.2c-1e-3 0.744 0.601 1.348 1.345 1.35 0.744 0 1.352-0.602 1.352-1.346v-4e-3c2e-3 -0.742-0.604-1.348-1.348-1.348-0.744-2e-3 -1.348 0.6-1.349 1.344v4e-3zm7.2 0c-1e-3 0.744 0.602 1.348 1.344 1.35 0.744 0 1.348-0.602 1.35-1.346v-4e-3c0-0.742-0.602-1.348-1.344-1.348-0.744-2e-3 -1.349 0.6-1.35 1.344v4e-3zm-128.52-62.64c-1e-3 0.744 0.601 1.347 1.344 1.349 0.744 1e-3 1.348-0.601 1.349-1.345v-4e-3c1e-3 -0.744-0.601-1.348-1.344-1.349s-1.348 0.601-1.349 1.345v4e-3zm0 7.2c-1e-3 0.743 0.601 1.347 1.344 1.348 0.744 1e-3 1.348-0.601 1.349-1.344v-4e-3c1e-3 -0.744-0.601-1.348-1.344-1.349-0.744-1e-3 -1.348 0.601-1.349 1.344v5e-3zm-7.201-7.2c-1e-3 0.744 0.601 1.347 1.344 1.349 0.744 1e-3 1.348-0.601 1.349-1.345v-4e-3c1e-3 -0.744-0.601-1.348-1.345-1.349-0.743-1e-3 -1.347 0.601-1.348 1.345v4e-3zm0 7.2c-1e-3 0.743 0.601 1.347 1.344 1.348 0.744 1e-3 1.348-0.601 1.349-1.344v-4e-3c1e-3 -0.744-0.601-1.348-1.345-1.349-0.743-1e-3 -1.347 0.601-1.348 1.344v5e-3zm-7.2-7.2c0 0.744 0.603 1.346 1.347 1.346s1.346-0.604 1.346-1.346c0-0.743-0.603-1.347-1.346-1.347s-1.347 0.603-1.347 1.347zm0 7.2c0 0.743 0.603 1.346 1.347 1.346s1.346-0.603 1.346-1.346c0-0.744-0.603-1.347-1.346-1.347s-1.347 0.603-1.347 1.347zm73.582-16.56c-1e-3 0.665 0.536 1.206 1.202 1.207 0.664 1e-3 1.205-0.537 1.207-1.202v-5e-3c2e-3 -0.666-0.537-1.206-1.202-1.208s-1.206 0.537-1.207 1.202v6e-3zm-7.2 0c-2e-3 0.665 0.537 1.206 1.202 1.207s1.206-0.537 1.208-1.202v-5e-3c2e-3 -0.666-0.536-1.207-1.201-1.209-0.666-2e-3 -1.207 0.536-1.209 1.201v8e-3zm-7.199 0c-3e-3 0.665 0.535 1.207 1.199 1.208 0.666 2e-3 1.207-0.535 1.209-1.201v-8e-3c2e-3 -0.666-0.535-1.207-1.199-1.209-0.666-2e-3 -1.207 0.536-1.209 1.201v9e-3zm-7.201 0c-2e-3 0.665 0.535 1.207 1.201 1.208 0.666 2e-3 1.207-0.535 1.209-1.201v-8e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.664-2e-3 -1.207 0.536-1.209 1.201v9e-3zm-7.2 0c-2e-3 0.665 0.536 1.207 1.202 1.208 0.664 2e-3 1.205-0.535 1.209-1.201v-8e-3c2e-3 -0.666-0.537-1.207-1.201-1.209-0.666-2e-3 -1.207 0.536-1.208 1.201-2e-3 4e-3 -2e-3 6e-3 -2e-3 9e-3zm-7.2 0c-2e-3 0.665 0.535 1.207 1.201 1.208 0.666 2e-3 1.207-0.535 1.208-1.201v-8e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.665-2e-3 -1.207 0.536-1.208 1.201v9e-3zm-7.201 0c-2e-3 0.665 0.536 1.207 1.201 1.208 0.666 2e-3 1.207-0.535 1.209-1.201v-8e-3c2e-3 -0.666-0.536-1.207-1.201-1.209-0.666-2e-3 -1.207 0.536-1.209 1.201v9e-3zm-7.199 0c-2e-3 0.665 0.535 1.207 1.201 1.208 0.665 2e-3 1.207-0.535 1.208-1.201v-8e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.665-2e-3 -1.207 0.536-1.208 1.201v9e-3zm-7.2 0c-2e-3 0.665 0.536 1.207 1.201 1.208 0.666 2e-3 1.207-0.535 1.209-1.201v-8e-3c2e-3 -0.666-0.536-1.207-1.201-1.209s-1.206 0.536-1.208 1.201c-1e-3 4e-3 -1e-3 6e-3 -1e-3 9e-3zm-7.2 0c-2e-3 0.665 0.535 1.207 1.201 1.208 0.666 2e-3 1.207-0.535 1.209-1.201v-8e-3c2e-3 -0.666-0.536-1.207-1.201-1.209-0.666-2e-3 -1.207 0.536-1.209 1.201v9e-3zm126.72 0c-1e-3 0.665 0.536 1.206 1.202 1.207 0.664 1e-3 1.205-0.537 1.207-1.202v-5e-3c2e-3 -0.666-0.537-1.206-1.201-1.208-0.666-1e-3 -1.207 0.537-1.208 1.202v6e-3zm-7.2 0c-2e-3 0.665 0.537 1.206 1.202 1.207s1.206-0.537 1.208-1.202v-5e-3c1e-3 -0.666-0.537-1.206-1.203-1.208-0.665-1e-3 -1.205 0.537-1.207 1.202v6e-3zm-7.199 0c-2e-3 0.665 0.536 1.206 1.201 1.207 0.666 1e-3 1.206-0.537 1.207-1.202v-5e-3c2e-3 -0.666-0.535-1.206-1.201-1.208-0.666-1e-3 -1.205 0.537-1.207 1.202v6e-3zm-7.201 0c0 0.665 0.537 1.206 1.203 1.207s1.205-0.537 1.207-1.202v-5e-3c2e-3 -0.666-0.537-1.206-1.201-1.208-0.666-2e-3 -1.207 0.537-1.209 1.202v6e-3zm-7.2 0c-2e-3 0.665 0.537 1.206 1.201 1.207 0.666 1e-3 1.207-0.537 1.207-1.202v-5e-3c2e-3 -0.666-0.535-1.206-1.201-1.208s-1.207 0.537-1.207 1.202v6e-3zm-7.2 0c-1e-3 0.665 0.536 1.206 1.202 1.207 0.664 1e-3 1.205-0.537 1.207-1.202v-5e-3c2e-3 -0.666-0.537-1.206-1.201-1.208-0.666-1e-3 -1.207 0.537-1.208 1.202v6e-3zm-7.2 0c-2e-3 0.665 0.537 1.206 1.202 1.207s1.206-0.537 1.208-1.202v-5e-3c1e-3 -0.666-0.537-1.206-1.203-1.208-0.665-1e-3 -1.205 0.537-1.207 1.202v6e-3zm-7.199 0c-2e-3 0.665 0.536 1.206 1.201 1.207 0.666 1e-3 1.206-0.537 1.207-1.202v-5e-3c2e-3 -0.666-0.535-1.206-1.201-1.208-0.666-1e-3 -1.205 0.537-1.207 1.202v6e-3zm-43.201 136.8c-2e-3 0.664 0.535 1.205 1.201 1.207 0.666 4e-3 1.207-0.535 1.208-1.199v-8e-3c2e-3 -0.666-0.535-1.207-1.2-1.209-0.666-2e-3 -1.207 0.535-1.209 1.201v8e-3zm-7.199 0c-2e-3 0.664 0.535 1.205 1.201 1.207 0.666 4e-3 1.207-0.535 1.208-1.199v-8e-3c2e-3 -0.666-0.535-1.207-1.2-1.209-0.666-2e-3 -1.207 0.535-1.209 1.201v8e-3zm14.4 0c-2e-3 0.664 0.535 1.205 1.2 1.207 0.665 4e-3 1.206-0.535 1.208-1.199v-8e-3c3e-3 -0.666-0.535-1.207-1.199-1.209-0.666-2e-3 -1.207 0.535-1.209 1.201v8e-3zm7.199 0c-2e-3 0.664 0.535 1.205 1.201 1.207 0.665 4e-3 1.206-0.535 1.209-1.199v-8e-3c2e-3 -0.666-0.536-1.207-1.201-1.209-0.666-2e-3 -1.207 0.535-1.209 1.201v8e-3zm7.2 0c-3e-3 0.664 0.534 1.205 1.2 1.207 0.666 4e-3 1.207-0.535 1.209-1.199v-8e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.664-2e-3 -1.206 0.535-1.208 1.201v8e-3zm7.2 0c-2e-3 0.664 0.537 1.205 1.201 1.207 0.666 2e-3 1.207-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.666 0-1.207 0.537-1.207 1.203v6e-3zm7.2 0c0 0.664 0.537 1.205 1.203 1.207s1.205-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.537-1.207-1.201-1.209-0.666 0-1.207 0.537-1.209 1.203v6e-3zm7.201 0c-2e-3 0.664 0.536 1.205 1.201 1.207 0.666 2e-3 1.206-0.537 1.207-1.203v-4e-3c2e-3 -0.666-0.535-1.207-1.201-1.209-0.666 0-1.205 0.537-1.207 1.203v6e-3z" style="fill:#0f7391" gorn="0.2.0.0"/>
+        <g gorn="0.2.0.1">
+         <title>layer 21</title>
+         <circle cx="80.612" cy="12.96" r=".72" style="fill:none;stroke-width:.72;stroke:#fff" gorn="0.2.0.1.1"/>
+         <g gorn="0.2.0.1.2">
+          <title>text:MADE IN</title>
+         </g>
+         <g gorn="0.2.0.1.3">
+          <title>text:ITALY</title>
+         </g>
+         <g gorn="0.2.0.1.4">
+          <title>text:Prototype</title>
+         </g>
+         <g gorn="0.2.0.1.5">
+          <title>text:Limited</title>
+         </g>
+         <g gorn="0.2.0.1.6">
+          <title>text:Edition</title>
+         </g>
+         <g gorn="0.2.0.1.7">
+          <g gorn="0.2.0.1.7.0">
+           <g transform="translate(102.57 12.24)">
+            <g gorn="0.2.0.1.7.0.0.0.0.0">
+             <g gorn="0.2.0.1.7.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.7.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.7.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-5.1472 -.9391)">
+                  <g gorn="0.2.0.1.7.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(-3.0518e-5 -3.0518e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.7.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">13</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.8">
+          <g gorn="0.2.0.1.8.0">
+           <g transform="translate(109.77 12.24)">
+            <g gorn="0.2.0.1.8.0.0.0.0.0">
+             <g gorn="0.2.0.1.8.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.8.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.8.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-5.1472 -.9384)">
+                  <g gorn="0.2.0.1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(-3.0518e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">12</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.9">
+          <g gorn="0.2.0.1.9.0">
+           <g transform="translate(116.97 12.24)">
+            <g gorn="0.2.0.1.9.0.0.0.0.0">
+             <g gorn="0.2.0.1.9.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.9.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.9.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-5.1472 -.9392)">
+                  <g gorn="0.2.0.1.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(-3.0518e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">11</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.10">
+          <g gorn="0.2.0.1.10.0">
+           <g transform="translate(124.17 12.24)">
+            <g gorn="0.2.0.1.10.0.0.0.0.0">
+             <g gorn="0.2.0.1.10.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.10.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.10.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-5.1472 -.94)">
+                  <g gorn="0.2.0.1.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(-3.0518e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">10</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.11">
+          <g gorn="0.2.0.1.11.0">
+           <g transform="translate(131.37 12.24)">
+            <g gorn="0.2.0.1.11.0.0.0.0.0">
+             <g gorn="0.2.0.1.11.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.11.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.11.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9388)">
+                  <g gorn="0.2.0.1.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(0 -6.1035e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">9</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.12">
+          <g gorn="0.2.0.1.12.0">
+           <g transform="translate(138.57 12.24)">
+            <g gorn="0.2.0.1.12.0.0.0.0.0">
+             <g gorn="0.2.0.1.12.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.12.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.12.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9396)">
+                  <g gorn="0.2.0.1.12.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.12.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">8</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.13">
+          <g gorn="0.2.0.1.13.0">
+           <g transform="translate(150.09 12.24)">
+            <g gorn="0.2.0.1.13.0.0.0.0.0">
+             <g gorn="0.2.0.1.13.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.13.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.13.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9401)">
+                  <g gorn="0.2.0.1.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(0 6.1035e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">7</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.14">
+          <g gorn="0.2.0.1.14.0">
+           <g transform="translate(157.29 12.24)">
+            <g gorn="0.2.0.1.14.0.0.0.0.0">
+             <g gorn="0.2.0.1.14.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.14.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.14.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9389)">
+                  <g gorn="0.2.0.1.14.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.14.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">6</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.15">
+          <g gorn="0.2.0.1.15.0">
+           <g transform="translate(164.49 12.24)">
+            <g gorn="0.2.0.1.15.0.0.0.0.0">
+             <g gorn="0.2.0.1.15.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.15.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.15.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9397)">
+                  <g gorn="0.2.0.1.15.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.15.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">5</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.16">
+          <g gorn="0.2.0.1.16.0">
+           <g transform="translate(171.69 12.24)">
+            <g gorn="0.2.0.1.16.0.0.0.0.0">
+             <g gorn="0.2.0.1.16.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.16.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.16.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9405)">
+                  <g gorn="0.2.0.1.16.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(0 6.1035e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.16.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">4</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.17">
+          <g gorn="0.2.0.1.17.0">
+           <g transform="translate(178.89 12.24)">
+            <g gorn="0.2.0.1.17.0.0.0.0.0">
+             <g gorn="0.2.0.1.17.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.17.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.17.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9393)">
+                  <g gorn="0.2.0.1.17.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.17.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">3</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.18">
+          <g gorn="0.2.0.1.18.0">
+           <g transform="translate(186.09 12.24)">
+            <g gorn="0.2.0.1.18.0.0.0.0.0">
+             <g gorn="0.2.0.1.18.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.1.18.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.1.18.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-2.4402 -.9401)">
+                  <g gorn="0.2.0.1.18.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(0 6.1035e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.1.18.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">2</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.19">
+          <title>element:C1</title>
+          <g gorn="0.2.0.1.19.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.20">
+          <title>element:C2</title>
+          <g gorn="0.2.0.1.20.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.21">
+          <title>element:C3</title>
+          <g gorn="0.2.0.1.21.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.22">
+          <title>element:C4</title>
+          <g gorn="0.2.0.1.22.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.23">
+          <title>element:C5</title>
+          <g gorn="0.2.0.1.23.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.24">
+          <title>element:C6</title>
+          <g gorn="0.2.0.1.24.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.25">
+          <title>element:C7</title>
+          <g gorn="0.2.0.1.25.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.26">
+          <title>element:C8</title>
+          <g gorn="0.2.0.1.26.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.27">
+          <title>element:C9</title>
+          <g gorn="0.2.0.1.27.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.28">
+          <title>element:C11</title>
+          <g gorn="0.2.0.1.28.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.29">
+          <title>element:F1</title>
+          <g gorn="0.2.0.1.29.1">
+           <title>package:L1812</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.30">
+          <title>element:FD1</title>
+          <g gorn="0.2.0.1.30.1">
+           <title>package:FIDUCIA-MOUNT</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.31">
+          <title>element:FD2</title>
+          <g gorn="0.2.0.1.31.1">
+           <title>package:FIDUCIA-MOUNT</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.32">
+          <title>element:FD3</title>
+          <g gorn="0.2.0.1.32.1">
+           <title>package:FIDUCIA-MOUNT</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.33">
+          <title>element:GROUND</title>
+          <g gorn="0.2.0.1.33.1">
+           <title>package:SJ</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.34">
+          <title>element:L</title>
+          <g gorn="0.2.0.1.34.1">
+           <title>text:L</title>
+           <g transform="translate(88.352 36.196)">
+            <g gorn="0.2.0.1.34.1.1.0.0.0">
+             <g transform="translate(-6.1035e-5)">
+              <text font-size="4.6771" style="fill:#ffffff;font-family:OCRA;font-size:4.6771px;line-height:0%" gorn="0.2.0.1.34.1.1.0.0.0.0.0.0.0">L</text>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.35">
+          <title>element:R1</title>
+          <g gorn="0.2.0.1.35.1">
+           <title>package:R0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.36">
+          <title>element:R2</title>
+          <g gorn="0.2.0.1.36.1">
+           <title>package:R0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.37">
+          <title>element:RN1</title>
+          <g gorn="0.2.0.1.37.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.38">
+          <title>element:RN2</title>
+          <g gorn="0.2.0.1.38.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.39">
+          <title>element:RN3</title>
+          <g gorn="0.2.0.1.39.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.40">
+          <title>element:RN4</title>
+          <g gorn="0.2.0.1.40.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.41">
+          <title>element:Z1</title>
+          <g gorn="0.2.0.1.41.1">
+           <title>package:CT/CN0603</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.1.42">
+          <title>element:Z2</title>
+          <g gorn="0.2.0.1.42.1">
+           <title>package:CT/CN0603</title>
+          </g>
+         </g>
+        </g>
+        <g gorn="0.2.0.2">
+         <title>layer 25</title>
+         <g gorn="0.2.0.2.1">
+          <g gorn="0.2.0.2.1.0">
+           <g transform="rotate(-90 133.18 5.8165)">
+            <g gorn="0.2.0.2.1.0.0.0.0.0">
+             <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.1.0.0.0.0.0.0">5V</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.2">
+          <title>text:A0</title>
+          <g transform="rotate(270 151.11 -12.111)">
+           <g gorn="0.2.0.2.2.1.0.0.0">
+            <g transform="translate(0 6.1035e-5)">
+             <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.2.1.0.0.0.0.0.0.0">A0</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.3">
+          <g gorn="0.2.0.2.3.0">
+           <g transform="translate(175.67 130.81)">
+            <g gorn="0.2.0.2.3.0.0.0.0.0">
+             <g transform="translate(0 3.0518e-5)">
+              <text font-size="3.6749" style="fill:#ffffff;font-family:OCRA;font-size:3.6749px;line-height:0%" gorn="0.2.0.2.3.0.0.0.0.0.0.0.0.0">ANALOG IN</text>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.4">
+          <g gorn="0.2.0.2.4.0">
+           <g transform="translate(87.893 11.843)">
+            <g gorn="0.2.0.2.4.0.0.0.0.0">
+             <g gorn="0.2.0.2.4.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.4.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.4.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-11.006 -.9392)">
+                  <g gorn="0.2.0.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(6.1035e-5 3.0518e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.2.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">AREF</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.5">
+          <title>text:1</title>
+          <g transform="translate(191.13 64.604)">
+           <g gorn="0.2.0.2.5.1.0.0.0">
+            <g transform="translate(6.1035e-5)">
+             <text font-size="4.176" style="fill:#ffffff;font-family:OCRA;font-size:4.176px;line-height:0%" gorn="0.2.0.2.5.1.0.0.0.0.0.0.0">1</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.6">
+          <g gorn="0.2.0.2.6.0">
+           <g transform="translate(95.422 11.915)">
+            <g gorn="0.2.0.2.6.0.0.0.0.0">
+             <g gorn="0.2.0.2.6.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.6.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.6.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-8.246 -.9399)">
+                  <g gorn="0.2.0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(-3.0518e-5 3.0518e-5)">
+                    <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">GND</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.7">
+          <title>text:M.Banzi</title>
+         </g>
+         <g gorn="0.2.0.2.8">
+          <title>text:D.Cuartielles</title>
+         </g>
+         <g gorn="0.2.0.2.9">
+          <title>text:D.Mellis</title>
+         </g>
+         <g gorn="0.2.0.2.10">
+          <title>text:TX</title>
+          <g transform="translate(84.573 49.317)">
+           <g gorn="0.2.0.2.10.1.0.0.0">
+            <g transform="translate(-6.1035e-5)">
+             <text font-size="4.6771" style="fill:#ffffff;font-family:OCRA;font-size:4.6771px;line-height:0%" gorn="0.2.0.2.10.1.0.0.0.0.0.0.0">TX</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.11">
+          <title>text:RX</title>
+          <g transform="translate(84.649 56.157)">
+           <g gorn="0.2.0.2.11.1.0.0.0">
+            <g transform="translate(3.0518e-5 3.0518e-5)">
+             <text font-size="4.6771" style="fill:#ffffff;font-family:OCRA;font-size:4.6771px;line-height:0%" gorn="0.2.0.2.11.1.0.0.0.0.0.0.0">RX</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.12">
+          <title>text:G.Martino</title>
+         </g>
+         <g gorn="0.2.0.2.13">
+          <title>text:T.Igoe</title>
+         </g>
+         <g gorn="0.2.0.2.14">
+          <g gorn="0.2.0.2.14.0">
+           <g transform="translate(112.29 138.6)">
+            <g gorn="0.2.0.2.14.0.0.0.0.0">
+             <g gorn="0.2.0.2.14.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.14.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.14.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-9.1553e-5 -.00048828)">
+                  <g gorn="0.2.0.2.14.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.14.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">RESET</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.15">
+          <g gorn="0.2.0.2.15.0">
+           <g transform="translate(120.21 138.96)">
+            <g gorn="0.2.0.2.15.0.0.0.0.0">
+             <g gorn="0.2.0.2.15.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.15.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.15.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(.00053406 -.00057983)">
+                  <g gorn="0.2.0.2.15.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(3.0518e-5 6.1035e-5)">
+                    <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.15.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">3V3</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.16">
+          <title>text:A1</title>
+          <g transform="rotate(270 154.71 -15.71)">
+           <g gorn="0.2.0.2.16.1.0.0.0">
+            <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.16.1.0.0.0.0">A1</text>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.17">
+          <title>text:A2</title>
+          <g transform="rotate(270 158.31 -19.312)">
+           <g gorn="0.2.0.2.17.1.0.0.0">
+            <g transform="translate(0 6.1035e-5)">
+             <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.17.1.0.0.0.0.0.0.0">A2</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.18">
+          <title>text:A3</title>
+          <g transform="rotate(270 161.91 -22.911)">
+           <g gorn="0.2.0.2.18.1.0.0.0">
+            <g transform="translate(0,1.2207e-4)">
+             <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.18.1.0.0.0.0.0.0.0">A3</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.19">
+          <title>text:A4</title>
+          <g transform="rotate(270 165.51 -26.511)">
+           <g gorn="0.2.0.2.19.1.0.0.0">
+            <g transform="translate(0 6.1035e-5)">
+             <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.19.1.0.0.0.0.0.0.0">A4</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.20">
+          <title>text:A5</title>
+          <g transform="rotate(270 169.11 -30.111)">
+           <g gorn="0.2.0.2.20.1.0.0.0">
+            <g transform="translate(0,1.2207e-4)">
+             <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.20.1.0.0.0.0.0.0.0">A5</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.21">
+          <g gorn="0.2.0.2.21.0">
+           <g transform="rotate(270 143.98 -4.984)">
+            <g gorn="0.2.0.2.21.0.0.0.0.0">
+             <g transform="translate(0,1.2207e-4)">
+              <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.21.0.0.0.0.0.0.0.0.0">VIN</text>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.22">
+          <g gorn="0.2.0.2.22.0">
+           <g transform="rotate(270 136.78 2.218)">
+            <g gorn="0.2.0.2.22.0.0.0.0.0">
+             <g transform="translate(0,1.2207e-4)">
+              <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.22.0.0.0.0.0.0.0.0.0">GND</text>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.23">
+          <g gorn="0.2.0.2.23.0">
+           <g transform="rotate(270 140.26 -1.2985)">
+            <g gorn="0.2.0.2.23.0.0.0.0.0">
+             <g transform="translate(3.0518e-5 .00012207)">
+              <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.23.0.0.0.0.0.0.0.0.0">GND</text>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.24">
+          <title>text:[#=PWM]</title>
+          <g transform="translate(145.16 27.276)">
+           <g gorn="0.2.0.2.24.1.0.0.0">
+            <g transform="translate(.00012207 -3.0518e-5)">
+             <text font-size="3.6749" style="fill:#ffffff;font-family:OCRA;font-size:3.6749px;line-height:0%" gorn="0.2.0.2.24.1.0.0.0.0.0.0.0">DIGITAL (PWM=</text>
+            </g>
+           </g>
+          </g>
+          <g transform="translate(179.7 27.276)"></g>
+          <g transform="translate(182.03 27.276)">
+           <g gorn="0.2.0.2.24.3.0.0.0">
+            <g transform="translate(.00012207 -3.0518e-5)">
+             <text font-size="3.6749" style="fill:#ffffff;font-family:OCRA;font-size:3.6749px;line-height:0%" gorn="0.2.0.2.24.3.0.0.0.0.0.0.0">)</text>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.25">
+          <g gorn="0.2.0.2.25.0">
+           <g transform="translate(123.45 22.68)">
+            <g gorn="0.2.0.2.25.0.0.0.0.0">
+             <g gorn="0.2.0.2.25.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.25.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.25.0.0.0.0.0.0.0.0.0.0.0">
+                 <g enable-background="new    " gorn="0.2.0.2.25.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <path d="m1.565-1.051c-0.021-0.5 0.25-0.756 0.596-0.756 0.21 0 0.37 0.064 0.706 0.225 0.255 0.121 0.44 0.211 0.625 0.211 0.181 0 0.266-0.145 0.271-0.42h0.3c0.025 0.561-0.265 0.756-0.576 0.756-0.2 0-0.38-0.061-0.726-0.221-0.235-0.115-0.42-0.221-0.601-0.221s-0.29 0.125-0.3 0.426z" style="fill:#fff" gorn="0.2.0.2.25.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.26">
+          <g gorn="0.2.0.2.26.0">
+           <g transform="translate(123.45 22.68)">
+            <g gorn="0.2.0.2.26.0.0.0.0.0">
+             <g gorn="0.2.0.2.26.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.26.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.26.0.0.0.0.0.0.0.0.0.0.0">
+                 <g enable-background="new    " gorn="0.2.0.2.26.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <path d="m1.565-8.473c-0.021-0.5 0.25-0.756 0.596-0.756 0.21 0 0.37 0.064 0.706 0.225 0.255 0.121 0.44 0.211 0.625 0.211 0.181 0 0.266-0.145 0.271-0.42h0.3c0.025 0.561-0.265 0.756-0.576 0.756-0.2 0-0.38-0.061-0.726-0.221-0.235-0.115-0.42-0.221-0.601-0.221s-0.29 0.125-0.3 0.426z" style="fill:#fff" gorn="0.2.0.2.26.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.27">
+          <g gorn="0.2.0.2.27.0">
+           <g transform="translate(163.41 19.08)">
+            <g gorn="0.2.0.2.27.0.0.0.0.0">
+             <g gorn="0.2.0.2.27.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.27.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.27.0.0.0.0.0.0.0.0.0.0.0">
+                 <g enable-background="new    " gorn="0.2.0.2.27.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <path d="m0.994-1.05c-0.02-0.502 0.25-0.756 0.596-0.756 0.21 0 0.37 0.064 0.706 0.225 0.254 0.121 0.439 0.211 0.624 0.211 0.181 0 0.266-0.146 0.271-0.422h0.3c0.025 0.562-0.265 0.756-0.576 0.756-0.2 0-0.38-0.059-0.726-0.219-0.234-0.115-0.42-0.221-0.6-0.221s-0.29 0.125-0.3 0.426z" style="fill:#fff" gorn="0.2.0.2.27.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.28">
+          <title>text:#</title>
+          <g transform="translate(177.81 19.08)">
+           <g gorn="0.2.0.2.28.1.0.0.0">
+            <g gorn="0.2.0.2.28.1.0.0.0.0">
+             <g transform="rotate(-90)">
+              <g gorn="0.2.0.2.28.1.0.0.0.0.0.0.0.0">
+               <g gorn="0.2.0.2.28.1.0.0.0.0.0.0.0.0.0">
+                <g enable-background="new    " gorn="0.2.0.2.28.1.0.0.0.0.0.0.0.0.0.0">
+                 <path d="m0.994-1.051c-0.02-0.501 0.25-0.757 0.596-0.757 0.21 0 0.37 0.063 0.706 0.226 0.254 0.121 0.439 0.211 0.624 0.211 0.181 0 0.266-0.146 0.271-0.421h0.3c0.025 0.561-0.265 0.756-0.576 0.756-0.2 0-0.38-0.061-0.726-0.22-0.235-0.115-0.42-0.222-0.601-0.222s-0.29 0.125-0.3 0.427z" style="fill:#fff" gorn="0.2.0.2.28.1.0.0.0.0.0.0.0.0.0.0.0"/>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.29">
+          <g gorn="0.2.0.2.29.0">
+           <g transform="translate(156.57 19.08)">
+            <g gorn="0.2.0.2.29.0.0.0.0.0">
+             <g gorn="0.2.0.2.29.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.29.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.29.0.0.0.0.0.0.0.0.0.0.0">
+                 <g enable-background="new    " gorn="0.2.0.2.29.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <path d="m0.994-1.05c-0.02-0.502 0.25-0.756 0.596-0.756 0.21 0 0.37 0.064 0.706 0.225 0.254 0.121 0.439 0.211 0.624 0.211 0.181 0 0.266-0.146 0.271-0.422h0.3c0.025 0.561-0.265 0.756-0.576 0.756-0.2 0-0.38-0.059-0.726-0.219-0.234-0.115-0.42-0.221-0.6-0.221s-0.29 0.125-0.3 0.426z" style="fill:#fff" gorn="0.2.0.2.29.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.30">
+          <g gorn="0.2.0.2.30.0">
+           <g transform="translate(130.29 19.08)">
+            <g gorn="0.2.0.2.30.0.0.0.0.0">
+             <g gorn="0.2.0.2.30.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.30.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.30.0.0.0.0.0.0.0.0.0.0.0">
+                 <g enable-background="new    " gorn="0.2.0.2.30.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <path d="m0.994-1.051c-0.02-0.5 0.25-0.756 0.596-0.756 0.21 0 0.37 0.064 0.706 0.225 0.254 0.121 0.439 0.21 0.624 0.21 0.181 0 0.266-0.146 0.271-0.42h0.3c0.025 0.561-0.265 0.756-0.576 0.756-0.2 0-0.38-0.063-0.726-0.221-0.235-0.115-0.42-0.223-0.601-0.223s-0.29 0.125-0.3 0.429z" style="fill:#fff" gorn="0.2.0.2.30.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.31">
+          <g gorn="0.2.0.2.31.0">
+           <title>text:Arduino</title>
+           <g transform="translate(109.02 55.179)">
+            <g gorn="0.2.0.2.31.0.1.0.0.0">
+             <g transform="translate(6.1035e-5)">
+              <text font-size="6.1209" style="fill:#ffffff;font-family:OCRA;font-size:6.1209px;line-height:0%" gorn="0.2.0.2.31.0.1.0.0.0.0.0.0.0">Arduino</text>
+             </g>
+            </g>
+           </g>
+          </g>
+          <g gorn="0.2.0.2.31.1">
+           <title>text:TM</title>
+           <g transform="translate(139 51.582)">
+            <g gorn="0.2.0.2.31.1.1.0.0.0">
+             <g transform="translate(0 3.0518e-5)">
+              <text font-size="2.2258" style="fill:#ffffff;font-family:OCRA;font-size:2.2258px;line-height:0%" gorn="0.2.0.2.31.1.1.0.0.0.0.0.0.0">TM</text>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.32">
+          <g gorn="0.2.0.2.32.0">
+           <g transform="translate(106.17 138.6)">
+            <g gorn="0.2.0.2.32.0.0.0.0.0">
+             <g gorn="0.2.0.2.32.0.0.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.32.0.0.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.32.0.0.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-9.1553e-5 -.00012207)">
+                  <g gorn="0.2.0.2.32.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(0 6.1035e-5)">
+                    <text font-size="3.3408" style="fill:#ffffff;font-family:OCRA;font-size:3.3408px;line-height:0%" gorn="0.2.0.2.32.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">IOREF</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.33">
+          <title>text:SDA</title>
+         </g>
+         <g gorn="0.2.0.2.34">
+          <title>text:SCL</title>
+         </g>
+         <g gorn="0.2.0.2.35">
+          <title>element:AD</title>
+          <g gorn="0.2.0.2.35.1">
+           <title>package:1X06</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.36">
+          <title>element:C1</title>
+          <g gorn="0.2.0.2.36.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.37">
+          <title>element:C2</title>
+          <g gorn="0.2.0.2.37.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.38">
+          <title>element:C3</title>
+          <g gorn="0.2.0.2.38.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.39">
+          <title>element:C4</title>
+          <g gorn="0.2.0.2.39.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.40">
+          <title>element:C5</title>
+          <g gorn="0.2.0.2.40.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.41">
+          <title>element:C6</title>
+          <g gorn="0.2.0.2.41.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.42">
+          <title>element:C7</title>
+          <g gorn="0.2.0.2.42.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.43">
+          <title>element:C8</title>
+          <g gorn="0.2.0.2.43.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.44">
+          <title>element:C9</title>
+          <g gorn="0.2.0.2.44.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.45">
+          <title>element:C11</title>
+          <g gorn="0.2.0.2.45.1">
+           <title>package:C0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.46">
+          <title>element:D1</title>
+          <g gorn="0.2.0.2.46.1">
+           <title>package:SMB</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.47">
+          <title>element:D2</title>
+          <g gorn="0.2.0.2.47.1">
+           <title>package:MINIMELF</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.48">
+          <title>element:D3</title>
+          <g gorn="0.2.0.2.48.1">
+           <title>package:MINIMELF</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.49">
+          <title>element:F1</title>
+          <g gorn="0.2.0.2.49.1">
+           <title>package:L1812</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.50">
+          <title>element:FD1</title>
+          <g gorn="0.2.0.2.50.1">
+           <title>package:FIDUCIA-MOUNT</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.51">
+          <title>element:FD2</title>
+          <g gorn="0.2.0.2.51.1">
+           <title>package:FIDUCIA-MOUNT</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.52">
+          <title>element:FD3</title>
+          <g gorn="0.2.0.2.52.1">
+           <title>package:FIDUCIA-MOUNT</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.53">
+          <title>element:GROUND</title>
+          <g gorn="0.2.0.2.53.1">
+           <title>package:SJ</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.54">
+          <title>element:ICSP</title>
+          <g gorn="0.2.0.2.54.1">
+           <title>text:ICSP</title>
+           <g transform="translate(194.55 82.335)">
+            <g gorn="0.2.0.2.54.1.1.0.0.0">
+             <g gorn="0.2.0.2.54.1.1.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.54.1.1.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.54.1.1.0.0.0.0.0.0.0.0.0">
+                 <g transform="translate(-.7808 -.783)">
+                  <g gorn="0.2.0.2.54.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(-3.0518e-5 .00012207)">
+                    <text font-size="4.176" style="fill:#ffffff;font-family:OCRA;font-size:4.176px;line-height:0%" gorn="0.2.0.2.54.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">ICSP</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+          <g gorn="0.2.0.2.54.2">
+           <title>package:2X03</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.55">
+          <title>element:ICSP</title>
+          <g gorn="0.2.0.2.55.1">
+           <title>text:ICSP</title>
+           <g transform="translate(194.55 82.335)">
+            <g gorn="0.2.0.2.55.1.1.0.0.0">
+             <g gorn="0.2.0.2.55.1.1.0.0.0.0">
+              <g transform="rotate(-90)">
+               <g gorn="0.2.0.2.55.1.1.0.0.0.0.0.0.0.0">
+                <g gorn="0.2.0.2.55.1.1.0.0.0.0.0.0.0.0.0">
+                 <g transform="rotate(90 92.726 -42.455)">
+                  <g gorn="0.2.0.2.55.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g transform="translate(6.1035e-5)">
+                    <text font-size="4.176" style="fill:#ffffff;font-family:OCRA;font-size:4.176px;line-height:0%" gorn="0.2.0.2.55.1.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">ICSP2</text>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+          <g gorn="0.2.0.2.55.2">
+           <title>package:2X03</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.56">
+          <title>element:ICSP1</title>
+          <g gorn="0.2.0.2.56.1">
+           <title>package:2X03</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.57">
+          <title>element:IOH</title>
+          <g gorn="0.2.0.2.57.1">
+           <title>package:1X10@1</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.58">
+          <title>element:IOL</title>
+          <g gorn="0.2.0.2.58.1">
+           <title>package:1X08</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.59">
+          <title>element:JP2</title>
+          <g gorn="0.2.0.2.59.1">
+           <title>package:2X02</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.60">
+          <title>element:L</title>
+          <g gorn="0.2.0.2.60.1">
+           <title>package:CHIP-LED0805</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.61">
+          <title>element:L1</title>
+          <g gorn="0.2.0.2.61.1">
+           <title>package:0805</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.62">
+          <title>element:ON</title>
+          <g gorn="0.2.0.2.62.1">
+           <title>text:ON</title>
+           <g transform="translate(190.77 49.321)">
+            <g gorn="0.2.0.2.62.1.1.0.0.0">
+             <text font-size="4.6771" style="fill:#ffffff;font-family:OCRA;font-size:4.6771px;line-height:0%" gorn="0.2.0.2.62.1.1.0.0.0.0">ON</text>
+            </g>
+           </g>
+          </g>
+          <g gorn="0.2.0.2.62.2">
+           <title>package:CHIP-LED0805</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.63">
+          <title>element:PC1</title>
+          <g gorn="0.2.0.2.63.1">
+           <title>package:PANASONIC_D</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.64">
+          <title>element:PC2</title>
+          <g gorn="0.2.0.2.64.1">
+           <title>package:PANASONIC_D</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.65">
+          <title>element:R1</title>
+          <g gorn="0.2.0.2.65.1">
+           <title>package:R0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.66">
+          <title>element:R2</title>
+          <g gorn="0.2.0.2.66.1">
+           <title>package:R0603-ROUND</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.67">
+          <title>element:RESET</title>
+          <g gorn="0.2.0.2.67.1">
+           <title>package:TS42</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.68">
+          <title>element:RESET-EN</title>
+          <g gorn="0.2.0.2.68.1">
+           <title>package:SJ</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.69">
+          <title>element:RN1</title>
+          <g gorn="0.2.0.2.69.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.70">
+          <title>element:RN2</title>
+          <g gorn="0.2.0.2.70.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.71">
+          <title>element:RN3</title>
+          <g gorn="0.2.0.2.71.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.72">
+          <title>element:RN4</title>
+          <g gorn="0.2.0.2.72.1">
+           <title>package:CAY16</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.73">
+          <title>element:RX</title>
+          <g gorn="0.2.0.2.73.1">
+           <title>package:CHIP-LED0805</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.74">
+          <title>element:T1</title>
+          <g gorn="0.2.0.2.74.1">
+           <title>package:SOT-23</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.75">
+          <title>element:TX</title>
+          <g gorn="0.2.0.2.75.1">
+           <title>package:CHIP-LED0805</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.76">
+          <title>element:U1</title>
+          <g gorn="0.2.0.2.76.1">
+           <title>package:SOT223</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.77">
+          <title>element:U2</title>
+          <g gorn="0.2.0.2.77.1">
+           <title>package:SOT23-DBV</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.78">
+          <title>element:U3</title>
+          <g gorn="0.2.0.2.78.1">
+           <title>package:MLF32</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.79">
+          <title>element:U5</title>
+          <g gorn="0.2.0.2.79.1">
+           <title>package:MSOP08</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.80">
+          <title>element:X1</title>
+          <g gorn="0.2.0.2.80.1">
+           <title>package:POWERSUPPLY_DC-21MM</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.81">
+          <title>element:X2</title>
+          <g gorn="0.2.0.2.81.1">
+           <title>package:PN61729</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.82">
+          <title>element:Y1</title>
+          <g gorn="0.2.0.2.82.1">
+           <title>package:QS</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.83">
+          <title>element:Y2</title>
+          <g gorn="0.2.0.2.83.1">
+           <title>package:RESONATOR</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.84">
+          <title>element:Z1</title>
+          <g gorn="0.2.0.2.84.1">
+           <title>package:CT/CN0603</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.85">
+          <title>element:Z2</title>
+          <g gorn="0.2.0.2.85.1">
+           <title>package:CT/CN0603</title>
+          </g>
+         </g>
+         <g gorn="0.2.0.2.86">
+          <title>element:ZU4</title>
+          <g gorn="0.2.0.2.86.1">
+           <title>package:DIL28-3</title>
+          </g>
+         </g>
+        </g>
+        <rect x="67.405" y="45.833" width="14.173" height="14.173" style="fill:#333" gorn="0.2.0.3"/>
+        <rect x="96.812" y="96.84" width="105.12" height="15.84" style="fill:#333" gorn="0.2.0.4"/>
+        <circle id="connector0pin" cx="161.97" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.5"/>
+        <path d="m160.36 140.3h3.222v7.408h-3.222v-7.408m0 3.705c0 0.889 0.722 1.605 1.61 1.605 0.89 0 1.609-0.721 1.609-1.605 0-0.894-0.724-1.611-1.609-1.611-0.888 0-1.61 0.722-1.61 1.611z" style="fill:#9a916c" gorn="0.2.0.6"/>
+        <circle id="connector1pin" cx="169.17" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.7"/>
+        <path d="m167.56 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.609 1.605 0.89 0 1.608-0.721 1.608-1.605 0-0.894-0.722-1.611-1.608-1.611-0.888 0-1.609 0.722-1.609 1.611z" style="fill:#9a916c" gorn="0.2.0.8"/>
+        <circle id="connector2pin" cx="176.37" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.9"/>
+        <path d="m174.76 140.3h3.222v7.408h-3.222v-7.408m0 3.705c0 0.889 0.722 1.605 1.611 1.605s1.606-0.721 1.606-1.605c0-0.894-0.726-1.611-1.606-1.611-0.889 0-1.611 0.722-1.611 1.611z" style="fill:#9a916c" gorn="0.2.0.10"/>
+        <circle id="connector3pin" cx="183.57" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.11"/>
+        <path d="m181.96 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.605 1.605 0.895 0 1.611-0.721 1.611-1.605 0-0.894-0.725-1.611-1.611-1.611-0.884 0-1.605 0.722-1.605 1.611z" style="fill:#9a916c" gorn="0.2.0.12"/>
+        <circle id="connector4pin" cx="190.77" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.13"/>
+        <path d="m189.16 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.611 1.605 0.889 0 1.609-0.721 1.609-1.605 0-0.894-0.721-1.611-1.609-1.611-0.891 0-1.611 0.722-1.611 1.611z" style="fill:#9a916c" gorn="0.2.0.14"/>
+        <circle id="connector5pin" cx="197.97" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.15"/>
+        <path d="m196.36 140.3h3.222v7.408h-3.222v-7.408m0 3.705c0 0.889 0.722 1.605 1.61 1.605 0.89 0 1.609-0.721 1.609-1.605 0-0.894-0.724-1.611-1.609-1.611-0.888 0-1.61 0.722-1.61 1.611z" style="fill:#9a916c" gorn="0.2.0.16"/>
+        <circle id="connector39pin" cx="198.33" cy="64.8" r="1.772" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.17"/>
+        <circle id="connector40pin" cx="205.53" cy="64.8" r="1.772" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.18"/>
+        <circle id="connector41pin" cx="198.33" cy="72" r="1.771" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.19"/>
+        <circle id="connector42pin" cx="205.53" cy="72" r="1.771" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.20"/>
+        <circle id="connector43pin" cx="198.33" cy="79.2" r="1.771" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.21"/>
+        <circle id="connector44pin" cx="205.53" cy="79.2" r="1.771" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.22"/>
+        <circle id="connector45pin" cx="77.012" cy="16.56" r="1.771" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.23"/>
+        <circle id="connector46pin" cx="77.012" cy="23.76" r="1.772" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.24"/>
+        <circle id="connector47pin" cx="69.812" cy="16.56" r="1.771" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.25"/>
+        <circle id="connector48pin" cx="69.812" cy="23.76" r="1.772" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.26"/>
+        <circle id="connector49pin" cx="62.611" cy="16.56" r="1.771" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.27"/>
+        <circle id="connector50pin" cx="62.611" cy="23.76" r="1.772" style="fill:none;stroke-width:.8504;stroke:#9a916c" gorn="0.2.0.28"/>
+        <circle id="connector51pin" cx="136.05" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.29"/>
+        <path d="m134.44 3.496h3.222v7.408h-3.222v-7.408m0 3.704c0 0.889 0.722 1.61 1.61 1.61 0.89 0 1.609-0.721 1.609-1.61 0-0.89-0.724-1.61-1.609-1.61-0.888 0-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.30"/>
+        <circle id="connector52pin" cx="128.85" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.31"/>
+        <path d="m127.24 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.611 1.61 0.889 0 1.609-0.721 1.609-1.61 0-0.89-0.721-1.61-1.609-1.61-0.891 0-1.611 0.721-1.611 1.61z" style="fill:#9a916c" gorn="0.2.0.32"/>
+        <circle id="connector53pin" cx="121.65" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.33"/>
+        <path d="m120.04 3.496h3.225v7.408h-3.225v-7.408m0 3.704c0 0.889 0.725 1.61 1.609 1.61 0.891 0 1.611-0.721 1.611-1.61 0-0.89-0.721-1.61-1.611-1.61-0.889 0-1.609 0.721-1.609 1.61z" style="fill:#9a916c" gorn="0.2.0.34"/>
+        <circle id="connector54pin" cx="114.45" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.35"/>
+        <path d="m112.84 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.722 1.61 1.611 1.61s1.605-0.721 1.605-1.61c0-0.89-0.725-1.61-1.605-1.61-0.889 0-1.611 0.721-1.611 1.61z" style="fill:#9a916c" gorn="0.2.0.36"/>
+        <circle id="connector55pin" cx="107.25" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.37"/>
+        <path d="m105.64 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.609 1.61 0.89 0 1.607-0.721 1.607-1.61 0-0.89-0.721-1.61-1.607-1.61-0.888 0-1.609 0.721-1.609 1.61z" style="fill:#9a916c" gorn="0.2.0.38"/>
+        <circle id="connector56pin" cx="100.05" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.39"/>
+        <path d="m98.441 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.61 1.61s1.61-0.721 1.61-1.61c0-0.89-0.721-1.61-1.61-1.61s-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.40"/>
+        <circle id="connector57pin" cx="92.852" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.41"/>
+        <path d="m91.241 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.61 1.61 0.89 0 1.61-0.721 1.61-1.61 0-0.89-0.721-1.61-1.61-1.61s-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.42"/>
+        <circle id="connector58pin" cx="85.652" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.43"/>
+        <path d="m84.042 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.61 1.61s1.61-0.721 1.61-1.61c0-0.89-0.721-1.61-1.61-1.61-0.89 0-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.44"/>
+        <circle id="connector59pin" cx="78.452" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.45"/>
+        <path d="m76.841 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.61 1.61s1.61-0.721 1.61-1.61c0-0.89-0.721-1.61-1.61-1.61s-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.46"/>
+        <circle id="connector60pin" cx="71.251" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.47"/>
+        <path d="m69.641 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.61 1.61 0.89 0 1.611-0.721 1.611-1.61 0-0.89-0.721-1.61-1.611-1.61-0.889 0-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.48"/>
+        <circle id="connector61pin" cx="197.97" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.49"/>
+        <path d="m196.36 3.496h3.222v7.408h-3.222v-7.408m0 3.704c0 0.889 0.722 1.61 1.61 1.61 0.89 0 1.609-0.721 1.609-1.61 0-0.89-0.724-1.61-1.609-1.61-0.888 0-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.50"/>
+        <circle id="connector62pin" cx="190.77" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.51"/>
+        <path d="m189.16 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.611 1.61 0.889 0 1.609-0.721 1.609-1.61 0-0.89-0.721-1.61-1.609-1.61-0.891 0-1.611 0.721-1.611 1.61z" style="fill:#9a916c" gorn="0.2.0.52"/>
+        <circle id="connector63pin" cx="183.57" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.53"/>
+        <path d="m181.96 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.605 1.61 0.895 0 1.611-0.721 1.611-1.61 0-0.89-0.725-1.61-1.611-1.61-0.884 0-1.605 0.721-1.605 1.61z" style="fill:#9a916c" gorn="0.2.0.54"/>
+        <circle id="connector64pin" cx="176.37" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.55"/>
+        <path d="m174.76 3.496h3.222v7.408h-3.222v-7.408m0 3.704c0 0.889 0.722 1.61 1.611 1.61s1.606-0.721 1.606-1.61c0-0.89-0.726-1.61-1.606-1.61-0.889 0-1.611 0.721-1.611 1.61z" style="fill:#9a916c" gorn="0.2.0.56"/>
+        <circle id="connector65pin" cx="169.17" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.57"/>
+        <path d="m167.56 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.609 1.61 0.89 0 1.608-0.721 1.608-1.61 0-0.89-0.722-1.61-1.608-1.61-0.888 0-1.609 0.721-1.609 1.61z" style="fill:#9a916c" gorn="0.2.0.58"/>
+        <circle id="connector66pin" cx="161.97" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.59"/>
+        <path d="m160.36 3.496h3.222v7.408h-3.222v-7.408m0 3.704c0 0.889 0.722 1.61 1.61 1.61 0.89 0 1.609-0.721 1.609-1.61 0-0.89-0.724-1.61-1.609-1.61-0.888 0-1.61 0.721-1.61 1.61z" style="fill:#9a916c" gorn="0.2.0.60"/>
+        <circle id="connector67pin" cx="154.77" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.61"/>
+        <path d="m153.16 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.611 1.61 0.889 0 1.609-0.721 1.609-1.61 0-0.89-0.721-1.61-1.609-1.61-0.891 0-1.611 0.721-1.611 1.61z" style="fill:#9a916c" gorn="0.2.0.62"/>
+        <circle id="connector68pin" cx="147.57" cy="7.2" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.63"/>
+        <path d="m145.96 3.496h3.221v7.408h-3.221v-7.408m0 3.704c0 0.889 0.721 1.61 1.605 1.61 0.895 0 1.611-0.721 1.611-1.61 0-0.89-0.725-1.61-1.611-1.61-0.884 0-1.605 0.721-1.605 1.61z" style="fill:#9a916c" gorn="0.2.0.64"/>
+        <circle id="connector84pin" cx="104.37" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.65"/>
+        <circle id="connector91pin" cx="97.172" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.66"/>
+        <path d="m102.76 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.61 1.605 0.89 0 1.611-0.721 1.611-1.605 0-0.894-0.721-1.611-1.611-1.611-0.889 0-1.61 0.722-1.61 1.611z" style="fill:#9a916c" gorn="0.2.0.67"/>
+        <path d="m95.562 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.61 1.605 0.89 0 1.611-0.721 1.611-1.605 0-0.894-0.721-1.611-1.611-1.611s-1.61 0.722-1.61 1.611z" style="fill:#9a916c" gorn="0.2.0.68"/>
+        <circle id="connector85pin" cx="111.57" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.69"/>
+        <path d="m109.96 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.605 1.605 0.895 0 1.611-0.721 1.611-1.605 0-0.894-0.725-1.611-1.611-1.611-0.884 0-1.605 0.722-1.605 1.611z" style="fill:#9a916c" gorn="0.2.0.70"/>
+        <circle id="connector86pin" cx="118.77" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.71"/>
+        <path d="m117.16 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.611 1.605 0.889 0 1.609-0.721 1.609-1.605 0-0.894-0.721-1.611-1.609-1.611-0.891 0-1.611 0.722-1.611 1.611z" style="fill:#9a916c" gorn="0.2.0.72"/>
+        <circle id="connector87pin" cx="125.97" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.73"/>
+        <path d="m124.36 140.3h3.222v7.408h-3.222v-7.408m0 3.705c0 0.889 0.722 1.605 1.61 1.605 0.89 0 1.609-0.721 1.609-1.605 0-0.894-0.724-1.611-1.609-1.611-0.888 0-1.61 0.722-1.61 1.611z" style="fill:#9a916c" gorn="0.2.0.74"/>
+        <circle id="connector88pin" cx="133.17" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.75"/>
+        <path d="m131.56 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.609 1.605 0.89 0 1.608-0.721 1.608-1.605 0-0.894-0.722-1.611-1.608-1.611-0.888 0-1.609 0.722-1.609 1.611z" style="fill:#9a916c" gorn="0.2.0.76"/>
+        <circle id="connector89pin" cx="140.37" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.77"/>
+        <path d="m138.76 140.3h3.222v7.408h-3.222v-7.408m0 3.705c0 0.889 0.722 1.605 1.611 1.605s1.606-0.721 1.606-1.605c0-0.894-0.726-1.611-1.606-1.611-0.889 0-1.611 0.722-1.611 1.611z" style="fill:#9a916c" gorn="0.2.0.78"/>
+        <circle id="connector90pin" cx="147.57" cy="144" r="1.61" style="fill:none;stroke-width:.8113;stroke:#9a916c" gorn="0.2.0.79"/>
+        <path d="m145.96 140.3h3.221v7.408h-3.221v-7.408m0 3.705c0 0.889 0.721 1.605 1.605 1.605 0.895 0 1.611-0.721 1.611-1.605 0-0.894-0.725-1.611-1.611-1.611-0.884 0-1.605 0.722-1.605 1.611z" style="fill:#9a916c" gorn="0.2.0.80"/>
+        <line x1="92.794" x2="199.7" y1="29.16" y2="29.16" style="fill:none;stroke-linecap:round;stroke-width:.864;stroke:#fff" gorn="0.2.0.81"/>
+        <line x1="160.07" x2="199.7" y1="126.21" y2="126.21" style="fill:none;stroke-linecap:round;stroke-width:.864;stroke:#fff" gorn="0.2.0.82"/>
+        <g gorn="0.2.0.83">
+         <g gorn="0.2.0.83.0">
+          <g transform="translate(137.96 130.81)">
+           <g gorn="0.2.0.83.0.0.0.0.0">
+            <g transform="translate(0 3.0518e-5)">
+             <text font-size="3.6749" style="fill:#ffffff;font-family:OCRA;font-size:3.6749px;line-height:0%" gorn="0.2.0.83.0.0.0.0.0.0.0.0.0">POWER</text>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <line x1="115.17" x2="151.09" y1="126.21" y2="126.21" style="fill:none;stroke-linecap:round;stroke-width:.864;stroke:#fff" gorn="0.2.0.84"/>
+        <g gorn="0.2.0.85">
+         <g gorn="0.2.0.85.0">
+          <g transform="translate(199.77 16.2)">
+           <g gorn="0.2.0.85.0.0.0.0.0">
+            <g gorn="0.2.0.85.0.0.0.0.0.0">
+             <g transform="rotate(-90)">
+              <g gorn="0.2.0.85.0.0.0.0.0.0.0.0.0.0">
+               <g gorn="0.2.0.85.0.0.0.0.0.0.0.0.0.0.0">
+                <g transform="translate(1.5198 -.0449)">
+                 <g gorn="0.2.0.85.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <g transform="translate(3.0518e-5)">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.85.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">0</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g gorn="0.2.0.86">
+         <g gorn="0.2.0.86.0">
+          <g transform="translate(192.57 16.2)">
+           <g gorn="0.2.0.86.0.0.0.0.0">
+            <g gorn="0.2.0.86.0.0.0.0.0.0">
+             <g transform="rotate(-90)">
+              <g gorn="0.2.0.86.0.0.0.0.0.0.0.0.0.0">
+               <g gorn="0.2.0.86.0.0.0.0.0.0.0.0.0.0.0">
+                <g transform="translate(1.5198 -.0441)">
+                 <g gorn="0.2.0.86.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <g transform="translate(3.0518e-5)">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.86.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">1</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g gorn="0.2.0.87">
+         <g gorn="0.2.0.87.0">
+          <g transform="translate(192.57 30.96)">
+           <g gorn="0.2.0.87.0.0.0.0.0">
+            <g gorn="0.2.0.87.0.0.0.0.0.0">
+             <g transform="rotate(-90)">
+              <g gorn="0.2.0.87.0.0.0.0.0.0.0.0.0.0">
+               <g gorn="0.2.0.87.0.0.0.0.0.0.0.0.0.0.0">
+                <g transform="translate(3.524 -.0441)">
+                 <g gorn="0.2.0.87.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <g transform="translate(-3.0518e-5)">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.87.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">TX0</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g gorn="0.2.0.88">
+         <g gorn="0.2.0.88.0">
+          <g transform="translate(199.77 30.96)">
+           <g gorn="0.2.0.88.0.0.0.0.0">
+            <g gorn="0.2.0.88.0.0.0.0.0.0">
+             <g transform="rotate(-90)">
+              <g gorn="0.2.0.88.0.0.0.0.0.0.0.0.0.0">
+               <g gorn="0.2.0.88.0.0.0.0.0.0.0.0.0.0.0">
+                <g transform="translate(3.524 -.0449)">
+                 <g gorn="0.2.0.88.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <g transform="translate(-3.0518e-5)">
+                   <text font-size="3.75" style="fill:#ffffff;font-family:OCRA;font-size:3.75px;line-height:0%" gorn="0.2.0.88.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">RX0</text>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g gorn="0.2.0.89">
+         <path d="m192.11 18.007h-0.014-1.945c-0.125 0-0.236-0.068-0.297-0.179-0.061-0.11-0.053-0.243 0.018-0.347l0.978-1.459c0.125-0.188 0.438-0.188 0.563 0l0.93 1.394c0.066 0.062 0.113 0.152 0.113 0.253-8e-3 0.187-0.159 0.338-0.346 0.338z" style="fill:#fff" gorn="0.2.0.89.0"/>
+        </g>
+        <g gorn="0.2.0.90">
+         <path d="m197.41 15.88h0.016 1.939c0.125 0 0.238 0.068 0.301 0.178 0.063 0.111 0.053 0.244-0.02 0.348l-0.973 1.459c-0.125 0.188-0.438 0.188-0.563 0l-0.93-1.396c-0.07-0.063-0.113-0.151-0.113-0.252 4e-3 -0.185 0.156-0.337 0.343-0.337z" style="fill:#fff" gorn="0.2.0.90.0"/>
+        </g>
+        <g gorn="0.2.0.91">
+         <path d="m179.9 26.121c-0.021-0.549 0.273-0.829 0.653-0.829 0.229 0 0.405 0.071 0.774 0.247 0.276 0.132 0.479 0.23 0.687 0.23 0.198 0 0.291-0.159 0.297-0.461h0.329c0.027 0.615-0.291 0.829-0.631 0.829-0.221 0-0.418-0.066-0.797-0.242-0.258-0.126-0.461-0.242-0.659-0.242s-0.318 0.138-0.329 0.467z" style="fill:#fff" gorn="0.2.0.91.0"/>
+        </g>
+        <g gorn="0.2.0.92">
+         <g gorn="0.2.0.92.0">
+          <g gorn="0.2.0.92.0.0">
+           <path d="m125.86 37.068c0.848-0.93 1.498-1.778 2.281-2.478 2.966-2.656 6.307-3.641 10.131-2.03 3.618 1.524 5.575 5.294 4.788 9.14-0.726 3.549-4.138 6.252-7.864 6.379-3.453 0.117-6.047-1.427-8.21-3.934-0.331-0.385-0.646-0.786-1.063-1.297-0.299 0.351-0.533 0.618-0.758 0.899-2.313 2.913-5.187 4.567-9.047 4.32-3.785-0.243-7.248-3.72-7.48-7.501-0.301-4.792 3.354-8.726 8.432-8.769 3.362-0.029 5.991 1.707 8.042 4.321 0.222 0.287 0.449 0.572 0.748 0.95z" style="fill:#fff" gorn="0.2.0.92.0.0.0"/>
+           <path d="m117.56 34.457c-3.496-6e-3 -6.05 2.237-6.332 5.133-0.251 2.569 1.789 5.137 4.597 5.746 2.766 0.6 4.977-0.55 6.643-2.557 2.558-3.073 2.466-2.542 0.031-5.591-1.354-1.696-3.202-2.646-4.939-2.731z" style="fill:#0f7391" gorn="0.2.0.92.0.0.1"/>
+           <path d="m134.88 34.434c-0.428 0.03-0.74 0.019-1.041 0.079-2.965 0.599-4.824 2.568-6.221 5.082-0.109 0.198-0.113 0.564-4e-3 0.757 1.262 2.183 2.838 4.053 5.348 4.841 2.433 0.763 4.563 0.132 6.24-1.735 1.504-1.675 1.846-3.656 0.852-5.72-1.055-2.183-2.933-3.146-5.174-3.304z" style="fill:#0f7391" gorn="0.2.0.92.0.0.2"/>
+          </g>
+          <g gorn="0.2.0.92.0.1">
+           <path d="m120.06 40.583c0 0.078-0.063 0.142-0.143 0.142h-5.168c-0.078 0-0.145-0.064-0.145-0.142v-1.561c0-0.078 0.063-0.142 0.145-0.142h5.168c0.078 0 0.143 0.064 0.143 0.142z" style="fill:#fff" gorn="0.2.0.92.0.1.0"/>
+          </g>
+          <g gorn="0.2.0.92.0.2">
+           <path d="m137.13 39.024c0-0.078-0.063-0.142-0.144-0.142h-1.521c-0.077 0-0.144-0.064-0.144-0.142v-1.521c0-0.078-0.063-0.142-0.142-0.142h-1.563c-0.078 0-0.143 0.064-0.143 0.142v1.521c0 0.078-0.063 0.142-0.143 0.142h-1.521c-0.078 0-0.145 0.064-0.145 0.142v1.561c0 0.078 0.063 0.142 0.145 0.142h1.521c0.078 0 0.143 0.064 0.143 0.142v1.52c0 0.078 0.063 0.142 0.143 0.142h1.563c0.076 0 0.142-0.064 0.142-0.142v-1.52c0-0.078 0.063-0.142 0.144-0.142h1.521c0.078 0 0.144-0.064 0.144-0.142z" style="fill:#fff" gorn="0.2.0.92.0.2.0"/>
+          </g>
+          <g gorn="0.2.0.92.0.3">
+           <circle cx="172.39" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.0"/>
+           <circle cx="170.97" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.1"/>
+           <circle cx="169.55" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.2"/>
+           <circle cx="168.14" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.3"/>
+           <circle cx="166.72" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.4"/>
+           <circle cx="165.3" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.5"/>
+           <circle cx="163.89" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.6"/>
+           <circle cx="162.47" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.7"/>
+           <circle cx="161.05" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.8"/>
+           <circle cx="159.63" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.9"/>
+           <circle cx="158.22" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.10"/>
+           <circle cx="156.8" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.11"/>
+           <circle cx="155.38" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.12"/>
+           <circle cx="153.97" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.3.13"/>
+          </g>
+          <g gorn="0.2.0.92.0.4">
+           <circle cx="172.45" cy="47.404" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.0"/>
+           <circle cx="173.79" cy="47.137" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.1"/>
+           <circle cx="175.07" cy="46.628" r=".568" style="fill:#fff" gorn="0.2.0.92.0.4.2"/>
+           <circle cx="176.23" cy="45.894" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.3"/>
+           <circle cx="177.24" cy="44.959" r=".568" style="fill:#fff" gorn="0.2.0.92.0.4.4"/>
+           <circle cx="178.06" cy="43.855" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.5"/>
+           <circle cx="178.66" cy="42.62" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.6"/>
+           <circle cx="179.03" cy="41.295" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.7"/>
+           <circle cx="179.15" cy="39.925" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.8"/>
+           <circle cx="179.02" cy="38.557" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.9"/>
+           <circle cx="178.63" cy="37.236" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.10"/>
+           <circle cx="178.02" cy="36.008" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.11"/>
+           <circle cx="177.18" cy="34.914" r=".567" style="fill:#fff" gorn="0.2.0.92.0.4.12"/>
+           <circle cx="176.17" cy="33.99" r=".568" style="fill:#fff" gorn="0.2.0.92.0.4.13"/>
+           <circle cx="175" cy="33.269" r=".568" style="fill:#fff" gorn="0.2.0.92.0.4.14"/>
+           <circle cx="173.71" cy="32.774" r=".568" style="fill:#fff" gorn="0.2.0.92.0.4.15"/>
+           <circle cx="172.36" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.4.16"/>
+           <circle cx="170.99" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.4.17"/>
+          </g>
+          <g gorn="0.2.0.92.0.5">
+           <circle cx="152.41" cy="47.309" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.0"/>
+           <circle cx="151.08" cy="47.026" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.1"/>
+           <circle cx="149.82" cy="46.506" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.2"/>
+           <circle cx="148.68" cy="45.765" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.3"/>
+           <circle cx="147.7" cy="44.828" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.4"/>
+           <circle cx="146.9" cy="43.727" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.5"/>
+           <circle cx="146.31" cy="42.499" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.6"/>
+           <circle cx="145.96" cy="41.185" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.7"/>
+           <circle cx="145.85" cy="39.829" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.8"/>
+           <path d="m146.05 37.911c0.31 0.033 0.538 0.313 0.505 0.623-0.033 0.313-0.313 0.54-0.624 0.507-0.312-0.033-0.537-0.313-0.505-0.627 0.033-0.31 0.313-0.537 0.624-0.503z" style="fill:#fff" gorn="0.2.0.92.0.5.9"/>
+           <path d="m146.54 36.626c0.299 0.089 0.472 0.406 0.383 0.705-0.09 0.302-0.405 0.474-0.706 0.385-0.3-0.089-0.472-0.406-0.382-0.708 0.088-0.299 0.405-0.471 0.705-0.382z" style="fill:#fff" gorn="0.2.0.92.0.5.10"/>
+           <circle cx="147" cy="35.959" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.11"/>
+           <circle cx="147.83" cy="34.879" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.12"/>
+           <circle cx="148.84" cy="33.969" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.13"/>
+           <circle cx="150" cy="33.258" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.14"/>
+           <circle cx="151.27" cy="32.77" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.15"/>
+           <circle cx="152.61" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.16"/>
+           <circle cx="153.97" cy="32.522" r=".568" style="fill:#fff" gorn="0.2.0.92.0.5.17"/>
+          </g>
+          <g gorn="0.2.0.92.0.6">
+           <circle cx="172.39" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.0"/>
+           <circle cx="170.97" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.1"/>
+           <circle cx="169.55" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.2"/>
+           <circle cx="168.14" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.3"/>
+           <circle cx="166.72" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.4"/>
+           <circle cx="165.3" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.5"/>
+           <circle cx="163.89" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.6"/>
+           <circle cx="162.47" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.7"/>
+           <circle cx="161.05" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.8"/>
+           <circle cx="159.63" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.9"/>
+           <circle cx="158.22" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.10"/>
+           <circle cx="156.8" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.11"/>
+           <circle cx="155.38" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.12"/>
+           <circle cx="153.97" cy="47.454" r=".568" style="fill:#fff" gorn="0.2.0.92.0.6.13"/>
+          </g>
+         </g>
+         <g gorn="0.2.0.92.1">
+          <path d="m154.16 44.561c-0.994 0-1.742-0.206-2.244-0.618-0.485-0.401-0.799-0.879-0.936-1.434-0.07-0.28-0.119-0.58-0.15-0.899-0.027-0.319-0.045-0.661-0.045-1.025v-5.236h0.939v5.22c0 1.183 0.189 2.117 0.572 2.498 0.377 0.375 0.932 0.563 1.664 0.563 0.738 0 1.494-0.188 1.871-0.563 0.381-0.38 0.572-1.314 0.572-2.498v-5.22h0.959v5.236c0 1.088-0.125 1.896-0.377 2.424-0.499 1.035-1.32 1.552-2.825 1.552z" style="fill:#fff" gorn="0.2.0.92.1.0"/>
+          <path d="m166.25 44.39h-0.944l-4.742-7.433v7.446h-0.797v-9.054h0.88l4.659 7.455v-7.455h0.944z" style="fill:#fff" gorn="0.2.0.92.1.1"/>
+          <path d="m171.91 35.131c0.576 0 1.107 0.115 1.594 0.346 0.488 0.231 0.906 0.555 1.256 0.975 0.354 0.42 0.623 0.926 0.818 1.517 0.196 0.59 0.295 1.247 0.295 1.968 0 0.72-0.099 1.376-0.295 1.966-0.195 0.592-0.468 1.099-0.818 1.521s-0.77 0.749-1.256 0.979c-0.483 0.23-1.018 0.345-1.594 0.345-0.58 0-1.113-0.115-1.602-0.345-0.484-0.231-0.904-0.557-1.258-0.979s-0.629-0.93-0.823-1.521c-0.194-0.589-0.294-1.246-0.294-1.966 0-0.721 0.1-1.377 0.294-1.968s0.47-1.097 0.823-1.517 0.773-0.745 1.258-0.975c0.486-0.23 1.022-0.346 1.602-0.346zm-6e-3 8.561c0.41 0 0.789-0.085 1.135-0.256s0.646-0.418 0.896-0.74c0.251-0.323 0.447-0.716 0.588-1.179 0.141-0.464 0.211-0.991 0.211-1.581 0-0.591-0.07-1.118-0.211-1.582-0.141-0.463-0.335-0.856-0.585-1.179-0.248-0.322-0.545-0.568-0.888-0.736-0.346-0.167-0.719-0.252-1.125-0.252-0.412 0-0.793 0.084-1.141 0.252-0.352 0.168-0.65 0.412-0.904 0.732s-0.451 0.713-0.596 1.178c-0.144 0.467-0.216 0.995-0.216 1.586 0 0.59 0.07 1.117 0.214 1.581 0.141 0.463 0.336 0.856 0.588 1.179 0.25 0.322 0.551 0.569 0.896 0.74 0.346 0.171 0.726 0.257 1.138 0.257z" style="fill:#fff" gorn="0.2.0.92.1.2"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(157.65 140.63)">
+        <g gorn="0.2.1.0.0.0">
+         <g gorn="0.2.1.0.0.0.0">
+          <rect x=".722" y="-.228" width="43.199" height="7.199" style="fill:#404040" gorn="0.2.1.0.0.0.0.0"/>
+          <rect x="2.931" y="1.981" width="2.781" height="2.783" gorn="0.2.1.0.0.0.0.1"/>
+          <polygon points="1.905 0.956 2.929 1.981 5.714 1.981 6.737 0.956" style="fill:#2a2a29" gorn="0.2.1.0.0.0.0.2"/>
+          <polygon points="6.737 0.956 5.714 1.985 5.714 4.766 6.737 5.789" style="fill:#474747" gorn="0.2.1.0.0.0.0.3"/>
+          <polygon points="6.737 5.789 5.712 4.766 2.929 4.766 1.905 5.789" style="fill:#595959" gorn="0.2.1.0.0.0.0.4"/>
+          <polygon points="1.903 5.789 2.929 4.764 2.929 1.981 1.903 0.956" style="fill:#373737" gorn="0.2.1.0.0.0.0.5"/>
+          <rect x="10.132" y="1.981" width="2.781" height="2.783" gorn="0.2.1.0.0.0.0.6"/>
+          <polygon points="9.104 0.956 10.13 1.981 12.911 1.981 13.936 0.956" style="fill:#2a2a29" gorn="0.2.1.0.0.0.0.7"/>
+          <polygon points="13.936 0.956 12.911 1.985 12.911 4.766 13.936 5.789" style="fill:#474747" gorn="0.2.1.0.0.0.0.8"/>
+          <polygon points="13.936 5.789 12.911 4.766 10.13 4.766 9.104 5.789" style="fill:#595959" gorn="0.2.1.0.0.0.0.9"/>
+          <polygon points="9.102 5.789 10.13 4.764 10.13 1.981 9.102 0.956" style="fill:#373737" gorn="0.2.1.0.0.0.0.10"/>
+          <rect x="17.331" y="1.981" width="2.781" height="2.783" gorn="0.2.1.0.0.0.0.11"/>
+          <polygon points="16.306 0.956 17.329 1.981 20.112 1.981 21.138 0.956" style="fill:#2a2a29" gorn="0.2.1.0.0.0.0.12"/>
+          <polygon points="21.138 0.956 20.112 1.985 20.112 4.766 21.138 5.789" style="fill:#474747" gorn="0.2.1.0.0.0.0.13"/>
+          <polygon points="21.138 5.789 20.112 4.766 17.329 4.766 16.306 5.789" style="fill:#595959" gorn="0.2.1.0.0.0.0.14"/>
+          <polygon points="16.304 5.789 17.329 4.764 17.329 1.981 16.304 0.956" style="fill:#373737" gorn="0.2.1.0.0.0.0.15"/>
+          <rect x="24.532" y="1.981" width="2.781" height="2.783" gorn="0.2.1.0.0.0.0.16"/>
+          <polygon points="23.507 0.956 24.53 1.981 27.313 1.981 28.339 0.956" style="fill:#2a2a29" gorn="0.2.1.0.0.0.0.17"/>
+          <polygon points="28.339 0.956 27.313 1.985 27.313 4.766 28.339 5.789" style="fill:#474747" gorn="0.2.1.0.0.0.0.18"/>
+          <polygon points="28.337 5.789 27.311 4.766 24.53 4.766 23.507 5.789" style="fill:#595959" gorn="0.2.1.0.0.0.0.19"/>
+          <polygon points="23.503 5.789 24.53 4.764 24.53 1.981 23.503 0.956" style="fill:#373737" gorn="0.2.1.0.0.0.0.20"/>
+          <rect x="31.731" y="1.981" width="2.779" height="2.783" gorn="0.2.1.0.0.0.0.21"/>
+          <polygon points="30.706 0.956 31.729 1.981 34.513 1.981 35.538 0.956" style="fill:#2a2a29" gorn="0.2.1.0.0.0.0.22"/>
+          <polygon points="35.538 0.956 34.513 1.985 34.513 4.766 35.538 5.789" style="fill:#474747" gorn="0.2.1.0.0.0.0.23"/>
+          <polygon points="35.536 5.789 34.513 4.766 31.729 4.766 30.706 5.789" style="fill:#595959" gorn="0.2.1.0.0.0.0.24"/>
+          <polygon points="30.704 5.789 31.729 4.764 31.729 1.981 30.704 0.956" style="fill:#373737" gorn="0.2.1.0.0.0.0.25"/>
+          <rect x="38.931" y="1.981" width="2.781" height="2.783" gorn="0.2.1.0.0.0.0.26"/>
+          <polygon points="37.905 0.956 38.929 1.981 41.714 1.981 42.737 0.956" style="fill:#2a2a29" gorn="0.2.1.0.0.0.0.27"/>
+          <polygon points="42.737 0.956 41.714 1.985 41.714 4.766 42.737 5.789" style="fill:#474747" gorn="0.2.1.0.0.0.0.28"/>
+          <polygon points="42.737 5.789 41.712 4.766 38.929 4.766 37.905 5.789" style="fill:#595959" gorn="0.2.1.0.0.0.0.29"/>
+          <polygon points="37.903 5.789 38.929 4.764 38.929 1.981 37.903 0.956" style="fill:#373737" gorn="0.2.1.0.0.0.0.30"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(191.16 64.252)">
+        <g gorn="0.2.2.0.0.0">
+         <g gorn="0.2.2.0.0.0.0">
+          <g transform="rotate(-90 10.657 7.1365)">
+           <g gorn="0.2.2.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.2.0.0.0.0.0.0.0.0.0">
+             <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0">
+              <polygon points="19.236 0.143 15.306 0.143 13.796 1.654 13.796 5.587 13.796 8.927 13.796 12.861 15.306 14.372 19.236 14.372 20.748 12.861 20.748 8.927 20.748 5.587 20.748 1.654" style="fill:#404040" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.0"/>
+              <polygon points="12.057 0.143 8.125 0.143 6.611 1.654 6.611 5.587 6.611 8.927 6.611 12.861 8.125 14.372 12.057 14.372 13.566 12.861 13.566 8.927 13.566 5.587 13.566 1.654" style="fill:#404040" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.1"/>
+              <polygon points="4.877 0.143 0.942 0.143 -0.565 1.654 -0.565 5.587 -0.565 8.927 -0.565 12.861 0.942 14.372 4.877 14.372 6.389 12.861 6.389 8.927 6.389 5.587 6.389 1.654" style="fill:#404040" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.2"/>
+              <polygon points="19.236 0.143 15.306 0.143 13.796 1.654 13.796 5.587 13.796 8.927 13.796 12.861 15.306 14.372 19.236 14.372 20.748 12.861 20.748 8.927 20.748 5.587 20.748 1.654" style="fill:#404040" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.3"/>
+              <polygon points="12.057 0.143 8.125 0.143 6.611 1.654 6.611 5.587 6.611 8.927 6.611 12.861 8.125 14.372 12.057 14.372 13.566 12.861 13.566 8.927 13.566 5.587 13.566 1.654" style="fill:#404040" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.4"/>
+              <polygon points="4.877 0.143 0.942 0.143 -0.565 1.654 -0.565 5.587 -0.565 8.927 -0.565 12.861 0.942 14.372 4.877 14.372 6.389 12.861 6.389 8.927 6.389 5.587 6.389 1.654" style="fill:#404040" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.5"/>
+              <g transform="rotate(270 3.045 3.701)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.6.0.0.0">
+                <rect x="1.898" y="2.555" width="2.298" height="2.299" style="fill:#8d8c8c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.6.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(270 3.045 10.9)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.7.0.0.0">
+                <rect x="1.9" y="9.754" width="2.297" height="2.299" style="fill:#8d8c8c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.7.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(270 10.244 3.701)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.8.0.0.0">
+                <rect x="9.097" y="2.556" width="2.299" height="2.298" style="fill:#8d8c8c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.8.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(270 10.244 10.9)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.9.0.0.0">
+                <rect x="9.098" y="9.755" width="2.297" height="2.298" style="fill:#8d8c8c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.9.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(270 17.442 3.7005)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.10.0.0.0">
+                <rect x="16.297" y="2.556" width="2.297" height="2.298" style="fill:#8d8c8c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(270 17.442 10.9)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.11.0.0.0">
+                <rect x="16.297" y="9.755" width="2.297" height="2.298" style="fill:#8d8455" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.11.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(270 17.442 10.902)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.12.0.0.0">
+                <rect x="16.852" y="10.314" width="1.185" height="1.183" style="fill:#8c8663" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0"/>
+               </g>
+              </g>
+              <polygon points="18.594 9.748 18.035 10.306 18.035 11.486 18.594 12.046" style="fill:#b8af82" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.13"/>
+              <polygon points="16.855 11.486 18.035 11.486 18.594 12.046 16.297 12.046" style="fill:#80795b" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.14"/>
+              <polygon points="16.855 10.306 16.855 11.486 16.297 12.046 16.297 9.748" style="fill:#5e5b43" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.15"/>
+              <polygon points="18.594 9.748 18.035 10.306 16.855 10.306 16.297 9.748" style="fill:#9a916c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.16"/>
+              <g transform="rotate(270 17.443 3.7005)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.17.0.0.0">
+                <rect x="16.853" y="3.113" width="1.185" height="1.183" style="fill:#8c8663" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.17.0.0.0.0"/>
+               </g>
+              </g>
+              <polygon points="18.594 2.55 18.035 3.107 18.035 4.287 18.594 4.845" style="fill:#b8af82" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.18"/>
+              <polygon points="16.855 4.287 18.035 4.287 18.594 4.845 16.297 4.845" style="fill:#80795b" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.19"/>
+              <polygon points="16.855 3.107 16.855 4.287 16.297 4.845 16.297 2.55" style="fill:#5e5b43" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.20"/>
+              <polygon points="18.594 2.55 18.035 3.107 16.855 3.107 16.297 2.55" style="fill:#9a916c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.21"/>
+              <g transform="rotate(270 10.244 10.902)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.22.0.0.0">
+                <rect x="9.656" y="10.314" width="1.185" height="1.184" style="fill:#8c8663" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.22.0.0.0.0"/>
+               </g>
+              </g>
+              <polygon points="11.396 9.748 10.839 10.306 10.839 11.486 11.396 12.046" style="fill:#b8af82" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.23"/>
+              <polygon points="9.655 11.486 10.839 11.486 11.396 12.046 9.099 12.046" style="fill:#80795b" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.24"/>
+              <polygon points="9.655 10.306 9.655 11.486 9.099 12.046 9.099 9.748" style="fill:#5e5b43" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.25"/>
+              <polygon points="11.396 9.748 10.839 10.306 9.655 10.306 9.099 9.748" style="fill:#9a916c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.26"/>
+              <g transform="rotate(270 10.243 3.7005)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.27.0.0.0">
+                <rect x="9.655" y="3.112" width="1.185" height="1.184" style="fill:#8c8663" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.27.0.0.0.0"/>
+               </g>
+              </g>
+              <polygon points="11.396 2.55 10.839 3.107 10.839 4.287 11.396 4.845" style="fill:#b8af82" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.28"/>
+              <polygon points="9.655 4.287 10.839 4.287 11.396 4.845 9.099 4.845" style="fill:#80795b" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.29"/>
+              <polygon points="9.655 3.107 9.655 4.287 9.099 4.845 9.099 2.55" style="fill:#5e5b43" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.30"/>
+              <polygon points="11.396 2.55 10.839 3.107 9.655 3.107 9.099 2.55" style="fill:#9a916c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.31"/>
+              <g transform="rotate(270 3.0425 10.902)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.32.0.0.0">
+                <rect x="2.454" y="10.313" width="1.184" height="1.185" style="fill:#8c8663" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.32.0.0.0.0"/>
+               </g>
+              </g>
+              <polygon points="4.196 9.748 3.639 10.306 3.639 11.486 4.196 12.046" style="fill:#b8af82" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.33"/>
+              <polygon points="2.454 11.486 3.639 11.486 4.196 12.046 1.899 12.046" style="fill:#80795b" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.34"/>
+              <polygon points="2.454 10.306 2.454 11.486 1.899 12.046 1.899 9.748" style="fill:#5e5b43" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.35"/>
+              <polygon points="4.196 9.748 3.639 10.306 2.454 10.306 1.899 9.748" style="fill:#9a916c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.36"/>
+              <g transform="rotate(270 3.043 3.7004)">
+               <g gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.37.0.0.0">
+                <rect x="2.455" y="3.111" width="1.184" height="1.187" style="fill:#8c8663" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.37.0.0.0.0"/>
+               </g>
+              </g>
+              <polygon points="4.196 2.55 3.639 3.107 3.639 4.287 4.196 4.846" style="fill:#b8af82" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.38"/>
+              <polygon points="2.454 4.287 3.639 4.287 4.196 4.846 1.899 4.846" style="fill:#80795b" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.39"/>
+              <polygon points="2.454 3.107 2.454 4.287 1.899 4.846 1.899 2.55" style="fill:#5e5b43" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.40"/>
+              <polygon points="4.196 2.55 3.639 3.107 2.454 3.107 1.899 2.55" style="fill:#9a916c" gorn="0.2.2.0.0.0.0.0.0.0.0.0.0.41"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(59.767 12.904)">
+        <g gorn="0.2.3.0.0.0">
+         <g id="_x32_x03_1_" gorn="0.2.3.0.0.0.0">
+          <g transform="rotate(180 10.656 7.1365)">
+           <g gorn="0.2.3.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.3.0.0.0.0.0.0.0.0.0">
+             <g gorn="0.2.3.0.0.0.0.0.0.0.0.0.0">
+              <polygon points="20.414 -0.098 16.483 -0.098 14.973 1.413 14.973 5.347 14.973 8.687 14.973 12.619 16.483 14.131 20.414 14.131 21.925 12.619 21.925 8.687 21.925 5.347 21.925 1.413" style="fill:#404040" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.0"/>
+              <polygon points="13.234 -0.098 9.302 -0.098 7.789 1.413 7.789 5.347 7.789 8.687 7.789 12.619 9.302 14.131 13.234 14.131 14.743 12.619 14.743 8.687 14.743 5.347 14.743 1.413" style="fill:#404040" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.1"/>
+              <polygon points="6.054 -0.098 2.121 -0.098 0.612 1.413 0.612 5.347 0.612 8.687 0.612 12.619 2.121 14.131 6.054 14.131 7.566 12.619 7.566 8.687 7.566 5.347 7.566 1.413" style="fill:#404040" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.2"/>
+              <polygon points="20.414 -0.098 16.483 -0.098 14.973 1.413 14.973 5.347 14.973 8.687 14.973 12.619 16.483 14.131 20.414 14.131 21.925 12.619 21.925 8.687 21.925 5.347 21.925 1.413" style="fill:#404040" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.3"/>
+              <polygon points="13.234 -0.098 9.302 -0.098 7.789 1.413 7.789 5.347 7.789 8.687 7.789 12.619 9.302 14.131 13.234 14.131 14.743 12.619 14.743 8.687 14.743 5.347 14.743 1.413" style="fill:#404040" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.4"/>
+              <polygon points="6.054 -0.098 2.121 -0.098 0.612 1.413 0.612 5.347 0.612 8.687 0.612 12.619 2.121 14.131 6.054 14.131 7.566 12.619 7.566 8.687 7.566 5.347 7.566 1.413" style="fill:#404040" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.5"/>
+              <rect x="3.073" y="2.311" width="2.299" height="2.298" style="fill:#8d8c8c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.6"/>
+              <rect x="3.073" y="9.51" width="2.299" height="2.298" style="fill:#8d8c8c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.7"/>
+              <rect x="10.272" y="2.311" width="2.298" height="2.298" style="fill:#8d8c8c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.8"/>
+              <rect x="10.272" y="9.51" width="2.298" height="2.298" style="fill:#8d8c8c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.9"/>
+              <rect x="17.47" y="2.311" width="2.298" height="2.298" style="fill:#8d8c8c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.10"/>
+              <rect x="17.47" y="9.51" width="2.298" height="2.298" style="fill:#8d8455" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.11"/>
+              <rect x="18.028" y="10.069" width="1.183" height="1.184" style="fill:#8c8663" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.12"/>
+              <polygon points="19.769 9.51 19.209 10.069 19.209 11.25 19.769 11.808" style="fill:#b8af82" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.13"/>
+              <polygon points="18.028 11.25 19.209 11.25 19.769 11.808 17.47 11.808" style="fill:#80795b" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.14"/>
+              <polygon points="18.028 10.069 18.028 11.25 17.47 11.808 17.47 9.51" style="fill:#5e5b43" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.15"/>
+              <polygon points="19.769 9.51 19.209 10.069 18.028 10.069 17.47 9.51" style="fill:#9a916c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.16"/>
+              <rect x="18.028" y="2.869" width="1.183" height="1.182" style="fill:#8c8663" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.17"/>
+              <polygon points="19.769 2.311 19.209 2.869 19.209 4.05 19.769 4.608" style="fill:#b8af82" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.18"/>
+              <polygon points="18.028 4.05 19.209 4.05 19.769 4.608 17.47 4.608" style="fill:#80795b" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.19"/>
+              <polygon points="18.028 2.869 18.028 4.05 17.47 4.608 17.47 2.311" style="fill:#5e5b43" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.20"/>
+              <polygon points="19.769 2.311 19.209 2.869 18.028 2.869 17.47 2.311" style="fill:#9a916c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.21"/>
+              <rect x="10.829" y="10.069" width="1.184" height="1.184" style="fill:#8c8663" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.22"/>
+              <polygon points="12.569 9.51 12.012 10.069 12.012 11.25 12.569 11.808" style="fill:#b8af82" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.23"/>
+              <polygon points="10.829 11.25 12.012 11.25 12.569 11.808 10.272 11.808" style="fill:#80795b" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.24"/>
+              <polygon points="10.829 10.069 10.829 11.25 10.272 11.808 10.272 9.51" style="fill:#5e5b43" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.25"/>
+              <polygon points="12.569 9.51 12.012 10.069 10.829 10.069 10.272 9.51" style="fill:#9a916c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.26"/>
+              <rect x="10.829" y="2.869" width="1.184" height="1.182" style="fill:#8c8663" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.27"/>
+              <polygon points="12.569 2.311 12.012 2.869 12.012 4.05 12.569 4.608" style="fill:#b8af82" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.28"/>
+              <polygon points="10.829 4.05 12.012 4.05 12.569 4.608 10.272 4.608" style="fill:#80795b" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.29"/>
+              <polygon points="10.829 2.869 10.829 4.05 10.272 4.608 10.272 2.311" style="fill:#5e5b43" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.30"/>
+              <polygon points="12.569 2.311 12.012 2.869 10.829 2.869 10.272 2.311" style="fill:#9a916c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.31"/>
+              <rect x="3.628" y="10.069" width="1.185" height="1.184" style="fill:#8c8663" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.32"/>
+              <polygon points="5.371 9.51 4.813 10.069 4.813 11.25 5.371 11.808" style="fill:#b8af82" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.33"/>
+              <polygon points="3.628 11.25 4.813 11.25 5.371 11.808 3.073 11.808" style="fill:#80795b" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.34"/>
+              <polygon points="3.628 10.069 3.628 11.25 3.073 11.808 3.073 9.51" style="fill:#5e5b43" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.35"/>
+              <polygon points="5.371 9.51 4.813 10.069 3.628 10.069 3.073 9.51" style="fill:#9a916c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.36"/>
+              <rect x="3.628" y="2.869" width="1.185" height="1.182" style="fill:#8c8663" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.37"/>
+              <polygon points="5.371 2.311 4.813 2.869 4.813 4.05 5.371 4.608" style="fill:#b8af82" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.38"/>
+              <polygon points="3.628 4.05 4.813 4.05 5.371 4.608 3.073 4.608" style="fill:#80795b" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.39"/>
+              <polygon points="3.628 2.869 3.628 4.05 3.073 4.608 3.073 2.311" style="fill:#5e5b43" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.40"/>
+              <polygon points="5.371 2.311 4.813 2.869 3.628 2.869 3.073 2.311" style="fill:#9a916c" gorn="0.2.3.0.0.0.0.0.0.0.0.0.0.41"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(144.69 3.372)">
+        <g gorn="0.2.4.0.0.0">
+         <g gorn="0.2.4.0.0.0.0">
+          <g transform="rotate(180,28.8,3.6)">
+           <g gorn="0.2.4.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.4.0.0.0.0.0.0.0.0.0">
+             <rect x=".72" y="-.228" width="57.6" height="7.199" style="fill:#404040" gorn="0.2.4.0.0.0.0.0.0.0.0.0.0"/>
+             <rect x="53.331" y="1.98" width="2.78" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.1"/>
+             <polygon points="57.135 5.787 56.113 4.762 53.331 4.762 52.303 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.2"/>
+             <polygon points="52.303 5.787 53.331 4.759 53.331 1.978 52.303 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.3"/>
+             <polygon points="52.304 0.955 53.331 1.978 56.113 1.978 57.135 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.4"/>
+             <polygon points="57.137 0.955 56.113 1.98 56.113 4.762 57.137 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.5"/>
+             <rect x="46.13" y="1.98" width="2.779" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.6"/>
+             <polygon points="49.937 5.787 48.913 4.762 46.128 4.762 45.103 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.7"/>
+             <polygon points="45.103 5.787 46.128 4.759 46.128 1.978 45.103 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.8"/>
+             <polygon points="45.105 0.955 46.13 1.978 48.913 1.978 49.937 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.9"/>
+             <polygon points="49.939 0.955 48.913 1.98 48.913 4.762 49.939 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.10"/>
+             <rect x="38.928" y="1.98" width="2.781" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.11"/>
+             <polygon points="42.736 5.787 41.712 4.762 38.928 4.762 37.904 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.12"/>
+             <polygon points="37.904 5.787 38.928 4.759 38.928 1.978 37.904 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.13"/>
+             <polygon points="37.907 0.955 38.929 1.978 41.712 1.978 42.736 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.14"/>
+             <polygon points="42.738 0.955 41.712 1.98 41.712 4.762 42.738 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.15"/>
+             <rect x="31.728" y="1.98" width="2.78" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.16"/>
+             <polygon points="35.538 5.787 34.51 4.762 31.728 4.762 30.706 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.17"/>
+             <polygon points="30.706 5.787 31.728 4.759 31.728 1.978 30.706 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.18"/>
+             <polygon points="30.706 0.955 31.73 1.978 34.51 1.978 35.538 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.19"/>
+             <polygon points="35.54 0.955 34.51 1.98 34.51 4.762 35.54 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.20"/>
+             <rect x="24.529" y="1.98" width="2.781" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.21"/>
+             <polygon points="28.335 5.787 27.312 4.762 24.529 4.762 23.503 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.22"/>
+             <polygon points="23.503 5.787 24.529 4.759 24.529 1.978 23.503 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.23"/>
+             <polygon points="23.505 0.955 24.532 1.978 27.312 1.978 28.335 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.24"/>
+             <polygon points="28.337 0.955 27.312 1.98 27.312 4.762 28.337 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.25"/>
+             <rect x="17.331" y="1.98" width="2.78" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.26"/>
+             <polygon points="21.135 5.787 20.113 4.762 17.331 4.762 16.303 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.27"/>
+             <polygon points="16.303 5.787 17.331 4.759 17.331 1.978 16.303 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.28"/>
+             <polygon points="16.304 0.955 17.331 1.978 20.113 1.978 21.135 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.29"/>
+             <polygon points="21.137 0.955 20.113 1.98 20.113 4.762 21.137 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.30"/>
+             <rect x="10.13" y="1.98" width="2.779" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.31"/>
+             <polygon points="13.937 5.787 12.913 4.762 10.128 4.762 9.103 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.32"/>
+             <polygon points="9.103 5.787 10.128 4.759 10.128 1.978 9.103 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.33"/>
+             <polygon points="9.105 0.955 10.13 1.978 12.913 1.978 13.937 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.34"/>
+             <polygon points="13.939 0.955 12.913 1.98 12.913 4.762 13.939 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.35"/>
+             <rect x="2.928" y="1.98" width="2.781" height="2.782" gorn="0.2.4.0.0.0.0.0.0.0.0.0.36"/>
+             <polygon points="6.736 5.787 5.712 4.762 2.928 4.762 1.904 5.787" style="fill:#2a2a29" gorn="0.2.4.0.0.0.0.0.0.0.0.0.37"/>
+             <polygon points="1.904 5.787 2.928 4.759 2.928 1.978 1.904 0.955" style="fill:#474747" gorn="0.2.4.0.0.0.0.0.0.0.0.0.38"/>
+             <polygon points="1.907 0.955 2.929 1.978 5.712 1.978 6.736 0.955" style="fill:#595959" gorn="0.2.4.0.0.0.0.0.0.0.0.0.39"/>
+             <polygon points="6.738 0.955 5.712 1.98 5.712 4.762 6.738 5.787" style="fill:#373737" gorn="0.2.4.0.0.0.0.0.0.0.0.0.40"/>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(101.47 28.096)">
+        <g gorn="0.2.5.0.0.0">
+         <g gorn="0.2.5.0.0.0.0">
+          <g transform="rotate(-90 1.925 3.7045)">
+           <g gorn="0.2.5.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.5.0.0.0.0.0.0.0.0.0">
+             <g transform="translate(21.554 31.338)">
+              <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0">
+               <g id="led-0603_1_" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <line x1="-23.902" x2="-23.902" y1="-37.873" y2="-30.637" style="fill:none" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                <g transform="rotate(270 -21.988 -34.198)">
+                 <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0">
+                  <rect x="-25.658" y="-36.111" width="7.348" height="3.833" style="fill:#f2f2f2" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-23.902-33.129s0.467 0.645 0.426 0.867c-0.041 0.219 0.148 0.541 0 0.676l-0.424-0.018z" style="fill-opacity:.7;fill:#22b573" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2"/>
+                <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3">
+                 <g transform="rotate(270 -21.959 -34.27)">
+                  <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0">
+                   <rect x="-22.382" y="-34.748" width=".854" height=".961" style="fill:#fff" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0"/>
+                  </g>
+                 </g>
+                 <g transform="rotate(270 -22.44 -34.269)">
+                  <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0">
+                   <rect x="-22.863" y="-34.29" width=".854" height=".049" style="fill:#b3b3b3" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0.0"/>
+                  </g>
+                 </g>
+                </g>
+                <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4">
+                 <polygon points="-23.476 -32.549 -23.582 -31.585 -22.849 -31.585 -22.954 -32.549" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0"/>
+                 <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1">
+                  <path d="m-23.279-32.488v-8e-3c0.035-0.266 0.104-0.447 0.162-0.598 0.08-0.209 0.782-0.559 0.696-0.828-0.012-0.027 0.011-0.06 0.043-0.066 0.035-8e-3 0.068 0.01 0.078 0.039 0.095 0.305-0.617 0.674-0.701 0.893-0.06 0.148-0.123 0.318-0.155 0.572-4e-3 0.029-0.033 0.055-0.068 0.049-0.03-1e-3 -0.055-0.025-0.055-0.053z" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1.0"/>
+                 </g>
+                 <polygon points="-20.59 -35.969 -20.487 -36.933 -21.217 -36.933 -21.114 -35.969" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.2"/>
+                 <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3">
+                  <path d="m-22.111-34.316c0-0.025 0.02-0.049 0.047-0.055 0.292-0.063 1.152-1.088 1.152-1.885 0-0.033 0.026-0.057 0.063-0.057 0.034 2e-3 0.063 0.025 0.063 0.057v2e-3c0 0.749-0.77 1.891-1.245 1.993-0.035 8e-3 -0.068-0.012-0.078-0.041-2e-3 -2e-3 -2e-3 -7e-3 -2e-3 -0.014z" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3.0"/>
+                 </g>
+                 <path d="m-22.127-33.845s2e-3 -0.356-0.311-0.383v0.383z" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.4"/>
+                 <path d="m-21.806-34.281s-0.306 0.158-0.351 0.053c-0.048-0.107-0.052-0.178 0.028-0.24 0.082-0.061 0.323 0.187 0.323 0.187z" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.5"/>
+                 <path d="m-22.474-33.922c0.084 0.27-0.618 0.619-0.698 0.828-0.06 0.145-0.127 0.33-0.162 0.598h0.059c0.035-0.266 0.104-0.447 0.162-0.598 0.08-0.209 0.782-0.559 0.696-0.828z" style="fill:#9d956c" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.6"/>
+                 <polygon points="-21.169 -35.969 -21.272 -36.933 -21.217 -36.933 -21.114 -35.969" style="fill:#9d956c" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.7"/>
+                 <path d="m-22.119-34.371c0.291-0.062 1.212-1.07 1.149-1.885h0.06c0.06 0.877-0.86 1.826-1.152 1.887z" style="fill:#9d956c" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.8"/>
+                 <path d="m-22.492-34.227v0.381h0.057v-0.381z" style="fill:#9d956c" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.9"/>
+                 <path d="m-22.181-34.469c-0.08 0.063-0.076 0.131-0.031 0.238l0.06 2e-3c-0.049-0.107-0.052-0.179 0.028-0.24z" style="fill:#9d956c" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.10"/>
+                </g>
+                <g transform="rotate(270 -20.097 -34.284)">
+                 <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0">
+                  <rect x="-22.205" y="-34.308" width="4.223" height=".051" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-20.069-36.916h-3.831v5.317l3.831 4e-3z" enable-background="new    " style="fill:#f2f2f2;opacity:.5" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6"/>
+                <path d="m-20.719-36.866h0.271c0.151 0.018 0.271-0.012 0.271 0.098v4.854c0 0.168-0.065 0.176-0.065-0.012v-4.346c0-0.457-0.105-0.518-0.197-0.518l-0.272 2e-3c-0.182 0-0.182-0.078-8e-3 -0.078z" enable-background="new    " style="fill:#fff;opacity:.55" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7"/>
+                <path d="m-23.678-31.74c-0.068 0-0.138 0.012-0.138-0.098v-4.817c0-0.168 0.065-0.176 0.065 8e-3 0 0.135 2e-3 3.138 2e-3 3.589-1e-3 0.595 0.071 1.318 0.071 1.318z" enable-background="new    " style="opacity:.03" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8"/>
+                <path d="m-23.902-37.874v0.771h0.521c0.125 0 0.213 0.08 0.268 0.188h3.047v-1.01h-3.834" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9"/>
+                <g transform="rotate(270 -20.097 -37.419)">
+                 <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0">
+                  <rect x="-20.596" y="-37.443" width="1.006" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-23.902-30.529h3.833v-1.071h-3.464c-0.056 0.104-0.146 0.191-0.271 0.191h-0.1v0.829" style="fill:#d1c690" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11"/>
+                <g transform="rotate(270 -20.096 -31.062)">
+                 <g gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0">
+                  <rect x="-20.628" y="-31.084" width="1.072" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(186.21 43.936)">
+        <g gorn="0.2.6.0.0.0">
+         <g id="chip-led0805_1_" gorn="0.2.6.0.0.0.0">
+          <g transform="rotate(-90 1.925 3.7045)">
+           <g gorn="0.2.6.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.6.0.0.0.0.0.0.0.0.0">
+             <g transform="translate(21.554 31.338)">
+              <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0">
+               <g id="led-0603_2_" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <line x1="-21.535" x2="-21.535" y1="-33.306" y2="-26.07" style="fill:none" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                <g transform="rotate(270 -19.62 -29.632)">
+                 <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0">
+                  <rect x="-23.291" y="-31.546" width="7.349" height="3.833" style="fill:#f2f2f2" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-21.533-28.561s0.467 0.646 0.426 0.865 0.148 0.541 0 0.678l-0.424-0.021z" style="fill-opacity:.7;fill:#22b573" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2"/>
+                <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3">
+                 <g transform="rotate(270 -19.592 -29.703)">
+                  <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0">
+                   <rect x="-20.017" y="-30.18" width=".854" height=".961" style="fill:#fff" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0"/>
+                  </g>
+                 </g>
+                 <g transform="rotate(270 -20.073 -29.703)">
+                  <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0">
+                   <rect x="-20.497" y="-29.724" width=".854" height=".049" style="fill:#b3b3b3" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0.0"/>
+                  </g>
+                 </g>
+                </g>
+                <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4">
+                 <polygon points="-21.109 -27.981 -21.213 -27.018 -20.482 -27.018 -20.586 -27.981" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0"/>
+                 <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1">
+                  <path d="m-20.91-27.919v-8e-3c0.035-0.269 0.104-0.447 0.162-0.601 0.08-0.209 0.782-0.561 0.696-0.826-0.012-0.026 0.011-0.063 0.043-0.065 0.035-8e-3 0.068 0.011 0.078 0.039 0.095 0.306-0.617 0.674-0.701 0.894-0.06 0.147-0.123 0.317-0.155 0.571-4e-3 0.029-0.033 0.056-0.068 0.05-0.03-6e-3 -0.055-0.028-0.055-0.054z" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1.0"/>
+                 </g>
+                 <polygon points="-18.221 -31.401 -18.118 -32.368 -18.848 -32.368 -18.745 -31.401" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.2"/>
+                 <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3">
+                  <path d="m-19.742-29.749c0-0.025 0.021-0.049 0.047-0.055 0.292-0.063 1.152-1.088 1.152-1.885 0-0.033 0.026-0.062 0.063-0.062 0.034 2e-3 0.063 0.022 0.063 0.062v2e-3c0 0.748-0.77 1.891-1.245 1.992-0.035 8e-3 -0.068-0.016-0.078-0.041-2e-3 -3e-3 -2e-3 -7e-3 -2e-3 -0.013z" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3.0"/>
+                 </g>
+                 <path d="m-19.758-29.278s2e-3 -0.354-0.311-0.383v0.383z" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.4"/>
+                 <path d="m-19.439-29.712s-0.306 0.157-0.351 0.054c-0.048-0.107-0.052-0.179 0.028-0.24 0.084-0.062 0.323 0.186 0.323 0.186z" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.5"/>
+                 <path d="m-20.107-29.354c0.084 0.271-0.618 0.617-0.698 0.826-0.06 0.146-0.127 0.33-0.162 0.601h0.059c0.035-0.269 0.104-0.447 0.162-0.601 0.08-0.209 0.782-0.561 0.696-0.826z" style="fill:#9d956c" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.6"/>
+                 <polygon points="-18.8 -31.401 -18.903 -32.368 -18.848 -32.368 -18.745 -31.401" style="fill:#9d956c" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.7"/>
+                 <path d="m-19.752-29.805c0.291-0.063 1.212-1.069 1.149-1.885h0.06c0.06 0.877-0.86 1.824-1.152 1.888z" style="fill:#9d956c" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.8"/>
+                 <path d="m-20.125-29.661v0.381h0.057v-0.381z" style="fill:#9d956c" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.9"/>
+                 <path d="m-19.814-29.901c-0.08 0.063-0.076 0.131-0.031 0.237l0.06 3e-3c-0.049-0.107-0.052-0.18 0.028-0.24z" style="fill:#9d956c" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.10"/>
+                </g>
+                <g transform="rotate(270 -17.73 -29.717)">
+                 <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0">
+                  <rect x="-19.839" y="-29.738" width="4.225" height=".051" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-17.701-32.35h-3.831v5.316l3.831 4e-3z" enable-background="new    " style="fill:#f2f2f2;opacity:.5" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6"/>
+                <path d="m-18.352-32.298h0.271c0.151 0.019 0.271-0.013 0.271 0.099v4.854c0 0.168-0.065 0.176-0.065-0.014v-4.348c0-0.457-0.105-0.52-0.197-0.52l-0.272 4e-3c-0.182 0-0.182-0.075-8e-3 -0.075z" enable-background="new    " style="fill:#fff;opacity:.55" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7"/>
+                <path d="m-21.311-27.171c-0.068 0-0.138 0.013-0.138-0.099v-4.817c0-0.168 0.065-0.177 0.065 9e-3 0 0.137 2e-3 3.139 2e-3 3.59 1e-3 0.593 0.071 1.317 0.071 1.317z" enable-background="new    " style="opacity:.03" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8"/>
+                <path d="m-21.533-33.309v0.771h0.521c0.125 0 0.213 0.08 0.268 0.188h3.047v-1.01h-3.834" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9"/>
+                <g transform="rotate(270 -17.728 -32.852)">
+                 <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0">
+                  <rect x="-18.229" y="-32.873" width="1.007" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-21.533-25.96h3.833v-1.071h-3.464c-0.056 0.104-0.146 0.19-0.271 0.19h-0.1v0.83" style="fill:#d1c690" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11"/>
+                <g transform="rotate(270 -17.729 -26.495)">
+                 <g gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0">
+                  <rect x="-18.26" y="-26.517" width="1.07" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(80.117 116.1)">
+        <g gorn="0.2.7.0.0.0">
+         <g id="panasonic_d" gorn="0.2.7.0.0.0.0">
+          <g transform="rotate(90 10.214 9.1755)">
+           <g gorn="0.2.7.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.7.0.0.0.0.0.0.0.0.0">
+             <g gorn="0.2.7.0.0.0.0.0.0.0.0.0.0">
+              <g transform="rotate(90 .52139 9.2028)">
+               <g gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <rect x="-.167" y="-10.702" width="1.272" height="1.039" style="fill:#ccc" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 19.911 9.2038)">
+               <g gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.1.0.0.0">
+                <rect x="19.221" y="28.079" width="1.272" height="1.037" style="fill:#ccc" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 .52144 9.7397)">
+               <g gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.2.0.0.0">
+                <rect x="-.706" y="-10.165" width=".203" height="1.039" enable-background="new    " style="opacity:.1" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 19.911 9.7402)">
+               <g gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.3.0.0.0">
+                <rect x="18.682" y="28.616" width=".203" height="1.037" enable-background="new    " style="opacity:.1" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 .52144 8.6689)">
+               <g gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.4.0.0.0">
+                <rect x="1.435" y="-11.236" width=".204" height="1.039" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 19.911 8.6699)">
+               <g gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.5.0.0.0">
+                <rect x="20.822" y="27.545" width=".204" height="1.037" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0"/>
+               </g>
+              </g>
+              <path d="m4.845 18.353h13.157c0.76 0 1.385-0.623 1.385-1.383v-15.58c0-0.764-0.625-1.387-1.385-1.387h-13.157l-3.81 3.811v10.731z" style="fill:#1a1a1a" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.6"/>
+              <circle cx="10.211" cy="9.178" r="8.703" style="fill:#e6e6e6" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.7"/>
+              <path d="m4.845 18.353h13.157c0.76 0 1.385-0.623 1.385-1.383v-15.58c0-0.764-0.625-1.387-1.385-1.387h-13.157l-3.81 3.811v10.731z" style="fill:#333" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.8"/>
+              <path d="m1.036 3.997 3.811-3.811h13.156c0.76 0 1.385 0.623 1.385 1.387v-0.184c0-0.764-0.625-1.387-1.385-1.387h-13.158l-3.81 3.811v0.184z" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.9"/>
+              <path d="m19.386 16.785c0 0.761-0.625 1.384-1.385 1.384h-13.157l-3.811-3.807v0.183l3.811 3.808h13.157c0.76 0 1.385-0.623 1.385-1.383z" enable-background="new    " style="fill:#fff;opacity:.1" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.10"/>
+              <path d="m10.211 0.354c1.881 0 3.615 0.604 5.039 1.614 2.215 1.579 3.664 4.163 3.664 7.088 0 2.927-1.449 5.509-3.664 7.087-1.424 1.013-3.158 1.615-5.039 1.615-4.805 0-8.702-3.896-8.702-8.703 0-4.804 3.898-8.701 8.702-8.701z" style="fill:#e6e6e6" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.11"/>
+              <path d="m18.915 9.178c0-2.926-1.449-5.509-3.664-7.088v14.175c2.214-1.577 3.664-4.16 3.664-7.087z" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.12"/>
+              <path d="m1.509 8.934c0 4.807 3.897 8.703 8.702 8.703 1.881 0 3.615-0.604 5.039-1.616 2.215-1.578 3.664-4.161 3.664-7.087v0.244c0 2.927-1.449 5.51-3.664 7.087-1.424 1.014-3.158 1.615-5.039 1.615-4.805 0-8.702-3.896-8.702-8.702z" enable-background="new    " style="fill:#fff;opacity:.3" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.13"/>
+              <path d="m18.915 9.407c0-2.925-1.449-5.508-3.664-7.088v-0.229c2.215 1.579 3.664 4.162 3.664 7.088z" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.14"/>
+              <path d="m15.25 2.319c-1.424-1.012-3.158-1.615-5.039-1.615-4.805 0-8.702 3.898-8.702 8.703v-0.229c0-4.805 3.897-8.703 8.702-8.703 1.881 0 3.615 0.604 5.039 1.615z" enable-background="new    " style="opacity:.2" gorn="0.2.7.0.0.0.0.0.0.0.0.0.0.15"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(59.957 116.1)">
+        <g gorn="0.2.8.0.0.0">
+         <g id="panasonic_d_1_" gorn="0.2.8.0.0.0.0">
+          <g transform="rotate(90 10.214 9.1755)">
+           <g gorn="0.2.8.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.8.0.0.0.0.0.0.0.0.0">
+             <g gorn="0.2.8.0.0.0.0.0.0.0.0.0.0">
+              <g transform="rotate(90 .52144 9.2033)">
+               <g gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <rect x="-.168" y="-10.702" width="1.272" height="1.038" style="fill:#ccc" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 19.911 9.2037)">
+               <g gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.1.0.0.0">
+                <rect x="19.22" y="28.078" width="1.272" height="1.037" style="fill:#ccc" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 .52139 9.7396)">
+               <g gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.2.0.0.0">
+                <rect x="-.707" y="-10.165" width=".203" height="1.039" enable-background="new    " style="opacity:.1" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 19.911 9.7396)">
+               <g gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.3.0.0.0">
+                <rect x="18.683" y="28.615" width=".203" height="1.037" enable-background="new    " style="opacity:.1" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 .52139 8.6688)">
+               <g gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.4.0.0.0">
+                <rect x="1.435" y="-11.237" width=".204" height="1.039" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 19.911 8.6698)">
+               <g gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.5.0.0.0">
+                <rect x="20.822" y="27.544" width=".204" height="1.037" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0"/>
+               </g>
+              </g>
+              <path d="m4.846 18.353h13.157c0.76 0 1.385-0.623 1.385-1.383v-15.58c0-0.764-0.625-1.387-1.385-1.387h-13.157l-3.81 3.811v10.731z" style="fill:#1a1a1a" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.6"/>
+              <circle cx="10.212" cy="9.178" r="8.703" style="fill:#e6e6e6" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.7"/>
+              <path d="m4.846 18.353h13.157c0.76 0 1.385-0.623 1.385-1.383v-15.58c0-0.764-0.625-1.387-1.385-1.387h-13.157l-3.81 3.811v10.731z" style="fill:#333" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.8"/>
+              <path d="m1.037 3.997 3.811-3.811h13.156c0.76 0 1.385 0.623 1.385 1.387v-0.184c0-0.764-0.625-1.387-1.385-1.387h-13.157l-3.81 3.811z" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.9"/>
+              <path d="m19.387 16.785c0 0.761-0.625 1.384-1.385 1.384h-13.157l-3.811-3.807v0.183l3.811 3.808h13.157c0.76 0 1.385-0.623 1.385-1.383z" enable-background="new    " style="fill:#fff;opacity:.1" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.10"/>
+              <path d="m10.212 0.354c1.881 0 3.615 0.604 5.039 1.614 2.215 1.579 3.664 4.163 3.664 7.088 0 2.927-1.449 5.509-3.664 7.087-1.424 1.013-3.158 1.615-5.039 1.615-4.805 0-8.702-3.896-8.702-8.703 0-4.804 3.898-8.701 8.702-8.701z" style="fill:#e6e6e6" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.11"/>
+              <path d="m18.915 9.178c0-2.926-1.449-5.509-3.664-7.088v14.175c2.215-1.577 3.665-4.16 3.664-7.087z" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.12"/>
+              <path d="m1.51 8.934c0 4.807 3.897 8.703 8.702 8.703 1.881 0 3.615-0.604 5.039-1.616 2.215-1.578 3.664-4.161 3.664-7.087v0.244c0 2.927-1.449 5.51-3.664 7.087-1.424 1.014-3.158 1.615-5.039 1.615-4.805 0-8.702-3.896-8.702-8.702z" enable-background="new    " style="fill:#fff;opacity:.3" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.13"/>
+              <path d="m18.915 9.407c0-2.925-1.449-5.508-3.664-7.088v-0.229c2.215 1.579 3.664 4.162 3.664 7.088z" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.14"/>
+              <path d="m15.251 2.319c-1.424-1.012-3.158-1.615-5.039-1.615-4.805 0-8.702 3.898-8.702 8.703v-0.229c0-4.805 3.897-8.703 8.702-8.703 1.881 0 3.615 0.604 5.039 1.615z" enable-background="new    " style="opacity:.2" gorn="0.2.8.0.0.0.0.0.0.0.0.0.0.15"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(92.852 140.63)">
+        <g gorn="0.2.9.0.0.0">
+         <g id="_x31_x08_1_" gorn="0.2.9.0.0.0.0">
+          <rect x=".72" y="-.228" width="57.601" height="7.199" style="fill:#404040" gorn="0.2.9.0.0.0.0.0"/>
+          <rect x="2.93" y="1.981" width="2.781" height="2.783" gorn="0.2.9.0.0.0.0.1"/>
+          <polygon points="1.905 0.956 2.928 1.981 5.711 1.981 6.737 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.2"/>
+          <polygon points="6.737 0.956 5.711 1.985 5.711 4.766 6.737 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.3"/>
+          <polygon points="6.736 5.789 5.71 4.766 2.928 4.766 1.905 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.4"/>
+          <polygon points="1.903 5.789 2.928 4.764 2.928 1.981 1.903 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.5"/>
+          <rect x="10.13" y="1.981" width="2.781" height="2.783" gorn="0.2.9.0.0.0.0.6"/>
+          <polygon points="9.104 0.956 10.128 1.981 12.912 1.981 13.938 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.7"/>
+          <polygon points="13.938 0.956 12.912 1.985 12.912 4.766 13.938 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.8"/>
+          <polygon points="13.936 5.789 12.911 4.766 10.128 4.766 9.104 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.9"/>
+          <polygon points="9.102 5.789 10.128 4.764 10.128 1.981 9.102 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.10"/>
+          <rect x="17.331" y="1.981" width="2.78" height="2.783" gorn="0.2.9.0.0.0.0.11"/>
+          <polygon points="16.304 0.956 17.328 1.981 20.112 1.981 21.136 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.12"/>
+          <polygon points="21.136 0.956 20.112 1.985 20.112 4.766 21.136 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.13"/>
+          <polygon points="21.135 5.789 20.11 4.766 17.328 4.766 16.304 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.14"/>
+          <polygon points="16.302 5.789 17.328 4.764 17.328 1.981 16.302 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.15"/>
+          <rect x="24.53" y="1.981" width="2.781" height="2.783" gorn="0.2.9.0.0.0.0.16"/>
+          <polygon points="23.503 0.956 24.528 1.981 27.313 1.981 28.335 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.17"/>
+          <polygon points="28.335 0.956 27.313 1.985 27.313 4.766 28.335 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.18"/>
+          <polygon points="28.335 5.789 27.311 4.766 24.528 4.766 23.503 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.19"/>
+          <polygon points="23.501 5.789 24.528 4.764 24.528 1.981 23.501 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.20"/>
+          <rect x="31.731" y="1.981" width="2.78" height="2.783" gorn="0.2.9.0.0.0.0.21"/>
+          <polygon points="30.703 0.956 31.729 1.981 34.511 1.981 35.535 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.22"/>
+          <polygon points="35.535 0.956 34.511 1.985 34.511 4.766 35.535 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.23"/>
+          <polygon points="35.535 5.789 34.51 4.766 31.729 4.766 30.703 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.24"/>
+          <polygon points="30.701 5.789 31.729 4.764 31.729 1.981 30.701 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.25"/>
+          <rect x="38.93" y="1.981" width="2.78" height="2.783" gorn="0.2.9.0.0.0.0.26"/>
+          <polygon points="37.905 0.956 38.928 1.981 41.71 1.981 42.737 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.27"/>
+          <polygon points="42.737 0.956 41.71 1.985 41.71 4.766 42.737 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.28"/>
+          <polygon points="42.735 5.789 41.71 4.766 38.928 4.766 37.905 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.29"/>
+          <polygon points="37.903 5.789 38.928 4.764 38.928 1.981 37.903 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.30"/>
+          <rect x="46.13" y="1.981" width="2.78" height="2.783" gorn="0.2.9.0.0.0.0.31"/>
+          <polygon points="45.104 0.956 46.128 1.981 48.91 1.981 49.938 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.32"/>
+          <polygon points="49.938 0.956 48.91 1.985 48.91 4.766 49.938 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.33"/>
+          <polygon points="49.936 5.789 48.91 4.766 46.128 4.766 45.104 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.34"/>
+          <polygon points="45.102 5.789 46.128 4.764 46.128 1.981 45.102 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.35"/>
+          <rect x="53.331" y="1.981" width="2.78" height="2.783" gorn="0.2.9.0.0.0.0.36"/>
+          <polygon points="52.304 0.956 53.328 1.981 56.112 1.981 57.136 0.956" style="fill:#2a2a29" gorn="0.2.9.0.0.0.0.37"/>
+          <polygon points="57.136 0.956 56.112 1.985 56.112 4.766 57.136 5.789" style="fill:#474747" gorn="0.2.9.0.0.0.0.38"/>
+          <polygon points="57.135 5.789 56.11 4.766 53.328 4.766 52.304 5.789" style="fill:#595959" gorn="0.2.9.0.0.0.0.39"/>
+          <polygon points="52.302 5.789 53.328 4.764 53.328 1.981 52.302 0.956" style="fill:#373737" gorn="0.2.9.0.0.0.0.40"/>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(89.022 50.176)">
+        <g gorn="0.2.10.0.0.0">
+         <g id="chip-led0805_2_" gorn="0.2.10.0.0.0.0">
+          <g transform="rotate(90 1.925 3.7045)">
+           <g gorn="0.2.10.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.10.0.0.0.0.0.0.0.0.0">
+             <g transform="translate(21.554 31.338)">
+              <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0">
+               <g id="led-0603_3_" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <line x1="-21.535" x2="-21.535" y1="-37.083" y2="-29.847" style="fill:none" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                <g transform="rotate(90 -19.62 -33.409)">
+                 <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0">
+                  <rect x="-23.292" y="-35.322" width="7.348" height="3.833" style="fill:#f2f2f2" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-21.541-32.333s0.467 0.645 0.426 0.867c-0.041 0.219 0.148 0.541 0 0.676l-0.424-0.018z" style="fill-opacity:.7;fill:#22b573" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2"/>
+                <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3">
+                 <g transform="rotate(90 -19.591 -33.479)">
+                  <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0">
+                   <rect x="-20.016" y="-33.957" width=".854" height=".961" style="fill:#fff" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0"/>
+                  </g>
+                 </g>
+                 <g transform="rotate(90 -20.072 -33.481)">
+                  <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0">
+                   <rect x="-20.497" y="-33.503" width=".854" height=".049" style="fill:#b3b3b3" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0.0"/>
+                  </g>
+                 </g>
+                </g>
+                <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4">
+                 <polygon points="-21.115 -31.753 -21.219 -30.79 -20.488 -30.79 -20.592 -31.753" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0"/>
+                 <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1">
+                  <path d="m-20.918-31.692v-8e-3c0.035-0.266 0.104-0.447 0.162-0.598 0.08-0.209 0.782-0.559 0.696-0.828-0.012-0.027 0.011-0.06 0.043-0.066 0.035-8e-3 0.068 0.01 0.078 0.039 0.095 0.305-0.617 0.674-0.701 0.893-0.06 0.148-0.123 0.318-0.155 0.572-4e-3 0.029-0.033 0.055-0.068 0.049-0.03-3e-3 -0.055-0.026-0.055-0.053z" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1.0"/>
+                 </g>
+                 <polygon points="-18.229 -35.173 -18.126 -36.139 -18.856 -36.139 -18.753 -35.173" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.2"/>
+                 <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3">
+                  <path d="m-19.75-33.52c0-0.025 0.02-0.049 0.047-0.055 0.292-0.063 1.152-1.088 1.152-1.885 0-0.033 0.026-0.057 0.063-0.057 0.034 2e-3 0.063 0.025 0.063 0.057v2e-3c0 0.749-0.77 1.891-1.245 1.993-0.035 8e-3 -0.068-0.012-0.078-0.041-2e-3 -5e-3 -2e-3 -9e-3 -2e-3 -0.014z" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3.0"/>
+                 </g>
+                 <path d="m-19.766-33.05s2e-3 -0.356-0.311-0.383v0.383z" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.4"/>
+                 <path d="m-19.446-33.485s-0.306 0.158-0.351 0.053c-0.048-0.107-0.052-0.178 0.028-0.24 0.083-0.061 0.323 0.187 0.323 0.187z" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.5"/>
+                 <path d="m-20.113-33.126c0.084 0.27-0.618 0.619-0.698 0.828-0.06 0.145-0.127 0.33-0.162 0.598h0.059c0.035-0.266 0.104-0.447 0.162-0.598 0.08-0.209 0.782-0.559 0.696-0.828z" style="fill:#9d956c" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.6"/>
+                 <polygon points="-18.808 -35.173 -18.909 -36.139 -18.856 -36.139 -18.753 -35.173" style="fill:#9d956c" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.7"/>
+                 <path d="m-19.759-33.577c0.291-0.062 1.212-1.07 1.149-1.885h0.06c0.06 0.877-0.86 1.826-1.152 1.887z" style="fill:#9d956c" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.8"/>
+                 <path d="m-20.133-33.433v0.381h0.057v-0.381z" style="fill:#9d956c" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.9"/>
+                 <path d="m-19.821-33.673c-0.08 0.063-0.076 0.131-0.031 0.238l0.06 2e-3c-0.049-0.107-0.052-0.179 0.028-0.24z" style="fill:#9d956c" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.10"/>
+                </g>
+                <g transform="rotate(90 -17.729 -33.493)">
+                 <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0">
+                  <rect x="-19.838" y="-33.517" width="4.223" height=".051" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-17.708-36.122h-3.831v5.317l3.831 4e-3z" enable-background="new    " style="fill:#f2f2f2;opacity:.5" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6"/>
+                <path d="m-18.36-36.071h0.271c0.151 0.018 0.271-0.012 0.271 0.098v4.854c0 0.168-0.065 0.176-0.065-0.012v-4.346c0-0.457-0.105-0.518-0.197-0.518l-0.272 2e-3c-0.18-1e-3 -0.18-0.078-8e-3 -0.078z" enable-background="new    " style="fill:#fff;opacity:.55" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7"/>
+                <path d="m-21.319-30.944c-0.068 0-0.138 0.012-0.138-0.098v-4.817c0-0.168 0.065-0.176 0.065 8e-3 0 0.135 2e-3 3.138 2e-3 3.589 3e-3 0.595 0.071 1.318 0.071 1.318z" enable-background="new    " style="opacity:.03" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8"/>
+                <path d="m-21.541-37.08v0.771h0.521c0.125 0 0.213 0.08 0.268 0.188h3.047v-1.01h-3.834" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9"/>
+                <g transform="rotate(90 -17.728 -36.628)">
+                 <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0">
+                  <rect x="-18.23" y="-36.653" width="1.006" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-21.541-29.733h3.833v-1.072h-3.464c-0.056 0.105-0.146 0.191-0.271 0.191h-0.1v0.83" style="fill:#d1c690" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11"/>
+                <g transform="rotate(90 -17.728 -30.272)">
+                 <g gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0">
+                  <rect x="-18.262" y="-30.296" width="1.072" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.10.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(89.022 43.696)">
+        <g gorn="0.2.11.0.0.0">
+         <g id="chip-led0805_3_" gorn="0.2.11.0.0.0.0">
+          <g transform="rotate(90 1.925 3.7045)">
+           <g gorn="0.2.11.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.11.0.0.0.0.0.0.0.0.0">
+             <g transform="translate(21.554 31.338)">
+              <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0">
+               <g id="led-0603_4_" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <line x1="-21.535" x2="-21.535" y1="-37.083" y2="-29.847" style="fill:none" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                <g transform="rotate(90 -19.621 -33.409)">
+                 <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0">
+                  <rect x="-23.292" y="-35.322" width="7.348" height="3.833" style="fill:#f2f2f2" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-21.541-32.333s0.467 0.645 0.426 0.867c-0.041 0.219 0.148 0.541 0 0.676l-0.424-0.018z" style="fill-opacity:.7;fill:#22b573" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2"/>
+                <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3">
+                 <g transform="rotate(90 -19.591 -33.479)">
+                  <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0">
+                   <rect x="-20.016" y="-33.957" width=".854" height=".961" style="fill:#fff" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0"/>
+                  </g>
+                 </g>
+                 <g transform="rotate(90 -20.073 -33.479)">
+                  <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0">
+                   <rect x="-20.498" y="-33.501" width=".854" height=".049" style="fill:#b3b3b3" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0.0"/>
+                  </g>
+                 </g>
+                </g>
+                <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4">
+                 <polygon points="-21.115 -31.753 -21.219 -30.79 -20.488 -30.79 -20.592 -31.753" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0"/>
+                 <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1">
+                  <path d="m-20.918-31.692v-8e-3c0.035-0.266 0.104-0.447 0.162-0.598 0.08-0.209 0.782-0.559 0.696-0.828-0.012-0.027 0.011-0.06 0.043-0.066 0.035-8e-3 0.068 0.01 0.078 0.039 0.095 0.305-0.617 0.674-0.701 0.893-0.06 0.148-0.123 0.318-0.155 0.572-4e-3 0.029-0.033 0.055-0.068 0.049-0.029-3e-3 -0.055-0.026-0.055-0.053z" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.1.0"/>
+                 </g>
+                 <polygon points="-18.229 -35.173 -18.126 -36.139 -18.856 -36.139 -18.753 -35.173" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.2"/>
+                 <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3">
+                  <path d="m-19.75-33.52c0-0.025 0.02-0.049 0.047-0.055 0.292-0.063 1.152-1.088 1.152-1.885 0-0.033 0.026-0.057 0.063-0.057 0.034 2e-3 0.063 0.025 0.063 0.057v2e-3c0 0.749-0.77 1.891-1.245 1.993-0.035 8e-3 -0.068-0.012-0.078-0.041-2e-3 -5e-3 -2e-3 -9e-3 -2e-3 -0.014z" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.3.0"/>
+                 </g>
+                 <path d="m-19.764-33.05s2e-3 -0.356-0.311-0.383v0.383z" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.4"/>
+                 <path d="m-19.445-33.485s-0.306 0.158-0.351 0.053c-0.048-0.107-0.052-0.178 0.028-0.24 0.082-0.061 0.323 0.187 0.323 0.187z" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.5"/>
+                 <path d="m-20.113-33.126c0.084 0.27-0.618 0.619-0.698 0.828-0.06 0.145-0.127 0.33-0.162 0.598h0.059c0.035-0.266 0.104-0.447 0.162-0.598 0.08-0.209 0.782-0.559 0.696-0.828z" style="fill:#9d956c" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.6"/>
+                 <polygon points="-18.806 -35.173 -18.91 -36.139 -18.856 -36.139 -18.753 -35.173" style="fill:#9d956c" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.7"/>
+                 <path d="m-19.758-33.577c0.291-0.062 1.212-1.07 1.149-1.885h0.06c0.06 0.877-0.86 1.826-1.152 1.887z" style="fill:#9d956c" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.8"/>
+                 <path d="m-20.131-33.433v0.381h0.057v-0.381z" style="fill:#9d956c" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.9"/>
+                 <path d="m-19.82-33.673c-0.08 0.063-0.076 0.131-0.031 0.238l0.06 2e-3c-0.049-0.107-0.052-0.179 0.028-0.24z" style="fill:#9d956c" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.10"/>
+                </g>
+                <g transform="rotate(90 -17.73 -33.492)">
+                 <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0">
+                  <rect x="-19.839" y="-33.516" width="4.223" height=".051" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-17.708-36.122h-3.831v5.317l3.831 4e-3z" enable-background="new    " style="fill:#f2f2f2;opacity:.5" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6"/>
+                <path d="m-18.359-36.071h0.271c0.151 0.018 0.271-0.012 0.271 0.098v4.854c0 0.168-0.065 0.176-0.065-0.012v-4.346c0-0.457-0.105-0.518-0.197-0.518l-0.272 2e-3c-0.181-1e-3 -0.181-0.078-8e-3 -0.078z" enable-background="new    " style="fill:#fff;opacity:.55" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7"/>
+                <path d="m-21.317-30.944c-0.068 0-0.138 0.012-0.138-0.098v-4.817c0-0.168 0.065-0.176 0.065 8e-3 0 0.135 2e-3 3.138 2e-3 3.589 1e-3 0.595 0.071 1.318 0.071 1.318z" enable-background="new    " style="opacity:.03" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8"/>
+                <path d="m-21.541-37.08v0.771h0.521c0.125 0 0.213 0.08 0.268 0.188h3.047v-1.01h-3.834" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9"/>
+                <g transform="rotate(90 -17.729 -36.629)">
+                 <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0">
+                  <rect x="-18.23" y="-36.653" width="1.006" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0"/>
+                 </g>
+                </g>
+                <path d="m-21.541-29.733h3.833v-1.072h-3.464c-0.056 0.105-0.146 0.191-0.271 0.191h-0.1v0.83" style="fill:#d1c690" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11"/>
+                <g transform="rotate(90 -17.729 -30.272)">
+                 <g gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0">
+                  <rect x="-18.262" y="-30.294" width="1.072" height=".052" enable-background="new    " style="fill:#fff;opacity:.5" gorn="0.2.11.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(31.186 77.227)">
+        <g gorn="0.2.12.0.0.0">
+         <g gorn="0.2.12.0.0.0.0">
+          <g transform="rotate(90 9.576 10.063)">
+           <g gorn="0.2.12.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.12.0.0.0.0.0.0.0.0.0">
+             <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0">
+              <g transform="rotate(90 30.72 3.6382)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <rect x="28.274" y="1.913" width="4.896" height="3.458" style="fill:#999" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 24.165 3.6387)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.1.0.0.0">
+                <rect x="21.719" y="1.913" width="4.896" height="3.459" style="fill:#999" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 17.61 3.6382)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.2.0.0.0">
+                <rect x="15.164" y="1.914" width="4.896" height="3.455" style="fill:#999" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 30.72 1.2632)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.3.0.0.0">
+                <rect x="30.649" y="-.462" width=".146" height="3.458" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 24.165 1.2637)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.4.0.0.0">
+                <rect x="24.094" y="-.462" width=".146" height="3.459" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 17.61 1.2632)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.5.0.0.0">
+                <rect x="17.539" y="-.461" width=".146" height="3.455" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 24.164 18.671)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.6.0.0.0">
+                <rect x="21.523" y="13.571" width="5.285" height="10.207" style="fill:#999" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.6.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 24.164 21.233)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.7.0.0.0">
+                <rect x="24.085" y="16.133" width=".161" height="10.207" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.7.0.0.0.0"/>
+               </g>
+              </g>
+              <g transform="rotate(90 24.166 11.058)">
+               <g gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.8.0.0.0">
+                <rect x="19.196" y="1.482" width="9.943" height="19.16" style="fill:#303030" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.8.0.0.0.0"/>
+               </g>
+              </g>
+              <polygon points="33.744 16.031 14.582 16.031 15.301 15.31 33.021 15.31" style="fill:#1f1f1f" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.9"/>
+              <polygon points="33.744 6.088 14.582 6.088 15.301 6.811 33.021 6.811" style="fill:#1f1f1f" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.10"/>
+              <polygon points="33.744 16.031 33.744 6.088 33.021 6.811 33.021 15.31" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.11"/>
+              <polygon points="14.582 16.031 14.582 6.088 15.301 6.811 15.301 15.31" style="fill:#3d3d3d" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.12"/>
+              <circle cx="31.582" cy="8.251" r=".72" style="fill:#1f1f1f" gorn="0.2.12.0.0.0.0.0.0.0.0.0.0.13"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(-3.6585 104.54)">
+        <g gorn="0.2.13.0.0.0">
+         <g id="powersupply_dc-21mm" gorn="0.2.13.0.0.0.0">
+          <g transform="rotate(90 12.729 19.571)">
+           <g gorn="0.2.13.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.13.0.0.0.0.0.0.0.0.0">
+             <g transform="translate(16.998 98.872)">
+              <g gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0">
+               <g id="dc-21mm" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                <g transform="rotate(90 12.756 25.928)">
+                 <g gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                  <g gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                   <g gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                    <g gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                     <rect x="-134" y="26.131" width="32.972" height="23.732" style="fill:#232323" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                     <rect x="-133.57" y="47.644" width="31.937" height="1.646" style="fill:#494949" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1"/>
+                     <rect x="-133.57" y="42.273" width="31.936" height="5.369" style="fill-opacity:.3;fill:#3d3d3d" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2"/>
+                     <rect x="-133.57" y="26.648" width="32.973" height="1.619" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3"/>
+                     <rect x="-133.57" y="28.221" width="32.973" height="5.826" style="fill-opacity:.4;fill:#0f0f0f" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4"/>
+                    </g>
+                    <rect x="-134" y="26.133" width=".592" height="23.73" enable-background="new    " style="opacity:.2" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1"/>
+                   </g>
+                   <line x1="-131.19" x2="-131.19" y1="26.131" y2="49.863" enable-background="new    " stroke-miterlimit="10" style="fill:none;opacity:.5;stroke-miterlimit:10;stroke-width:.25;stroke:#000" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1"/>
+                   <g gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2">
+                    <rect x="-104.53" y="26.109" width="1.287" height="23.729" enable-background="new    " style="opacity:.25" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0"/>
+                    <path d="m-103.52 45.54v-15.08h-13.296c-4.166 0-7.541 3.375-7.541 7.541 0 4.164 3.375 7.541 7.541 7.541z" enable-background="new    " stroke-miterlimit="10" style="opacity:.25;stroke-miterlimit:10;stroke-width:.25;stroke:#565656" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.1"/>
+                   </g>
+                   <g gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3">
+                    <path d="m-103.52 45.54v-15.08h-13.296c-4.166 0-7.541 3.375-7.541 7.541 0 4.164 3.375 7.541 7.541 7.541z" style="fill:#232323" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0"/>
+                    <rect x="-104.25" y="25.242" width="7.688" height="25.514" style="fill:#232323" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1"/>
+                   </g>
+                   <rect x="-135.7" y="35.142" width="1.701" height="5.713" style="fill:#6d6d6d" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4"/>
+                   <rect x="-134.98" y="32.387" width=".976" height="11.226" style="fill:#494949" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5"/>
+                   <rect x="-103.52" y="49.291" width="6.266" height="1.051" style="fill:#494949" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6"/>
+                   <rect x="-103.52" y="25.603" width="6.267" height="1.051" gorn="0.2.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7"/>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(3.4818,23.55)">
+        <g gorn="0.2.14.0.0.0">
+         <g gorn="0.2.14.0.0.0.0">
+          <g transform="rotate(-90,22.124,20.315)">
+           <g gorn="0.2.14.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.14.0.0.0.0.0.0.0.0.0">
+             <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0">
+              <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.0">
+               <path d="m43.103 14.31v2.956h-4.074l-2e-3 -2.956v-1.928h3.17c0.502 0 0.908 0.406 0.908 0.907 0 0 0 1.021-2e-3 1.021z" style="fill:#999" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.0.0"/>
+               <path d="m43.103 13.189h-4.076v-0.807h3.318c0.403 0 0.758 0.56 0.758 0.807z" style="fill:#808080" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.0.1"/>
+              </g>
+              <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1">
+               <g transform="rotate(270 22.79 20.814)">
+                <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0">
+                 <rect x="4.451" y="4.577" width="36.682" height="32.479" style="fill:#b3b3b3" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"/>
+                </g>
+               </g>
+               <g transform="rotate(270 22.79 -1.3085)">
+                <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.1.0.0.0">
+                 <rect x="19.009" y="-17.546" width="7.565" height="32.479" style="fill:#999" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.1.0.0.0.0"/>
+                </g>
+               </g>
+               <g transform="rotate(270 7.574 17.032)">
+                <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.2.0.0.0">
+                 <rect x="-14.548" y="16.012" width="44.247" height="2.046" enable-background="new    " style="fill:#ccc;opacity:.5" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.2.0.0.0.0"/>
+                </g>
+               </g>
+               <g transform="rotate(270 38.006 17.032)">
+                <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.3.0.0.0">
+                 <rect x="15.885" y="16.011" width="44.247" height="2.047" enable-background="new    " style="opacity:.2" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.1.3.0.0.0.0"/>
+                </g>
+               </g>
+              </g>
+              <g gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.2">
+               <path d="m2.476 14.308v2.956h4.077v-4.884h-3.172c-0.502 0-0.905 0.406-0.905 0.907z" style="fill:#b3b3b3" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.2.0"/>
+               <path d="m2.476 13.187h4.077v-0.807h-3.319c-0.404 0-0.758 0.56-0.758 0.807z" style="fill:#e6e6e6" gorn="0.2.14.0.0.0.0.0.0.0.0.0.0.2.1"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(8.7817 8.9562)">
+        <g gorn="0.2.15.0.0.0">
+         <g id="smd_157sw" gorn="0.2.15.0.0.0.0">
+          <g transform="rotate(-90 7.299 6.521)">
+           <g gorn="0.2.15.0.0.0.0.0.0.0.0">
+            <g gorn="0.2.15.0.0.0.0.0.0.0.0.0">
+             <polygon points="3.229 21.262 3.597 21.262 3.597 29.526 3.229 29.526 3.229 35.772 19.208 35.772 19.208 15.015 3.229 15.015" style="fill:#ccc" gorn="0.2.15.0.0.0.0.0.0.0.0.0.0"/>
+             <polygon points="21.768 29.526 21.399 29.526 21.399 21.262 21.768 21.262 21.768 15.015 5.908 15.015 5.908 35.772 21.768 35.772" style="fill:#ccc" gorn="0.2.15.0.0.0.0.0.0.0.0.0.1"/>
+             <circle cx="12.496" cy="25.395" r="5.117" style="fill:#641d1c" gorn="0.2.15.0.0.0.0.0.0.0.0.0.2"/>
+             <path d="m12.746 30.51c2.827 0 5.118-2.289 5.118-5.114 0-2.826-2.289-5.12-5.118-5.12h-0.249c2.827 0 5.118 2.292 5.118 5.12 0 2.825-2.291 5.114-5.118 5.114z" enable-background="new    " style="opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.3"/>
+             <circle cx="12.497" cy="25.395" r="4.93" style="fill:#852725" gorn="0.2.15.0.0.0.0.0.0.0.0.0.4"/>
+             <circle cx="12.381" cy="25.395" r="4.929" style="fill:#852725" gorn="0.2.15.0.0.0.0.0.0.0.0.0.5"/>
+             <g gorn="0.2.15.0.0.0.0.0.0.0.0.0.6">
+              <path d="m7.568 25.512c0 2.724 2.206 4.931 4.931 4.931 2.724 0 4.929-2.207 4.929-4.931v-0.233c0 2.724-2.208 4.931-4.929 4.931-2.725 0-4.931-2.207-4.931-4.931z" enable-background="new    " style="opacity:.1" gorn="0.2.15.0.0.0.0.0.0.0.0.0.6.0"/>
+              <path d="m17.427 25.512c0-2.725-2.208-4.93-4.929-4.93-2.725 0-4.931 2.205-4.931 4.93v-0.233c0-2.724 2.206-4.931 4.931-4.931 2.724 0 4.929 2.207 4.929 4.931z" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.6.1"/>
+             </g>
+             <g transform="rotate(270 3.4129 18.138)">
+              <g gorn="0.2.15.0.0.0.0.0.0.0.0.0.7.0.0.0">
+               <rect x=".291" y="17.954" width="6.248" height=".371" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.7.0.0.0.0"/>
+              </g>
+             </g>
+             <g transform="rotate(270 3.4134 32.649)">
+              <g gorn="0.2.15.0.0.0.0.0.0.0.0.0.8.0.0.0">
+               <rect x=".293" y="32.465" width="6.244" height=".371" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.8.0.0.0.0"/>
+              </g>
+             </g>
+             <g transform="rotate(270 3.7789 25.393)">
+              <g gorn="0.2.15.0.0.0.0.0.0.0.0.0.9.0.0.0">
+               <rect x="-.352" y="25.212" width="8.266" height=".368" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.9.0.0.0.0"/>
+              </g>
+             </g>
+             <g transform="rotate(270 21.568 18.138)">
+              <g gorn="0.2.15.0.0.0.0.0.0.0.0.0.10.0.0.0">
+               <rect x="18.446" y="17.957" width="6.248" height=".368" enable-background="new    " style="opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.10.0.0.0.0"/>
+              </g>
+             </g>
+             <g transform="rotate(270 21.566 32.648)">
+              <g gorn="0.2.15.0.0.0.0.0.0.0.0.0.11.0.0.0">
+               <rect x="18.446" y="32.465" width="6.244" height=".369" enable-background="new    " style="opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.11.0.0.0.0"/>
+              </g>
+             </g>
+             <g transform="rotate(270 21.198 25.394)">
+              <g gorn="0.2.15.0.0.0.0.0.0.0.0.0.12.0.0.0">
+               <rect x="17.066" y="25.212" width="8.267" height=".369" enable-background="new    " style="opacity:.2" gorn="0.2.15.0.0.0.0.0.0.0.0.0.12.0.0.0.0"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+          <g gorn="0.2.15.0.0.0.0.1">
+           <rect x="36.573" y="6.322" width="2.75" height="2.251" style="fill:#e6e6e6" gorn="0.2.15.0.0.0.0.1.0"/>
+           <rect x="36.573" y="-5.929" width="2.75" height="2.252" style="fill:#e6e6e6" gorn="0.2.15.0.0.0.0.1.1"/>
+           <rect x="13.198" y="-.47" width="2.75" height="3.417" style="fill:#e6e6e6" gorn="0.2.15.0.0.0.0.1.2"/>
+           <rect x="13.198" y="6.322" width="2.75" height="2.251" style="fill:#e6e6e6" gorn="0.2.15.0.0.0.0.1.3"/>
+           <rect x="13.198" y="-5.929" width="2.75" height="2.252" style="fill:#e6e6e6" gorn="0.2.15.0.0.0.0.1.4"/>
+           <rect x="13.198" y="-.47" width=".334" height="3.417" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.15.0.0.0.0.1.5"/>
+           <rect x="13.198" y="6.322" width=".334" height="2.251" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.15.0.0.0.0.1.6"/>
+           <rect x="13.198" y="-5.929" width=".334" height="2.252" enable-background="new    " style="fill:#fff;opacity:.2" gorn="0.2.15.0.0.0.0.1.7"/>
+           <rect x="39.263" y="6.303" width=".104" height="2.251" enable-background="new    " style="opacity:.2" gorn="0.2.15.0.0.0.0.1.8"/>
+           <rect x="39.263" y="-5.948" width=".104" height="2.252" enable-background="new    " style="opacity:.2" gorn="0.2.15.0.0.0.0.1.9"/>
+           <rect x="36.589" y="6.335" width=".334" height="2.251" enable-background="new    " style="opacity:.1" gorn="0.2.15.0.0.0.0.1.10"/>
+           <rect x="36.589" y="-5.916" width=".334" height="2.252" enable-background="new    " style="opacity:.1" gorn="0.2.15.0.0.0.0.1.11"/>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g gorn="0.2.16">
+        <title>text:RESET</title>
+        <g transform="translate(27.468 23.401)">
+         <g gorn="0.2.16.1.0.0.0">
+          <g transform="translate(-9.1553e-5 -6.1035e-5)">
+           <text font-size="4.176" style="fill:#ffffff;font-family:OCRA;font-size:4.176px;line-height:0%" gorn="0.2.16.1.0.0.0.0.0.0.0">RESET</text>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="translate(67.64 3.6012)">
+        <g gorn="0.2.17.0.0.0">
+         <g gorn="0.2.17.0.0.0.0">
+          <rect x="-.049" y="-.001" width="72" height="7.199" style="fill:#404040" gorn="0.2.17.0.0.0.0.0"/>
+          <rect x="2.162" y="2.208" width="2.779" height="2.782" gorn="0.2.17.0.0.0.0.1"/>
+          <polygon points="1.137 1.183 2.16 2.208 4.943 2.208 5.969 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.2"/>
+          <polygon points="5.969 1.183 4.943 2.211 4.943 4.992 5.969 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.3"/>
+          <polygon points="5.969 6.015 4.943 4.992 2.16 4.992 1.137 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.4"/>
+          <polygon points="1.135 6.015 2.16 4.99 2.16 2.208 1.135 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.5"/>
+          <rect x="9.363" y="2.208" width="2.781" height="2.782" gorn="0.2.17.0.0.0.0.6"/>
+          <polygon points="8.336 1.183 9.359 2.208 12.142 2.208 13.168 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.7"/>
+          <polygon points="13.168 1.183 12.142 2.211 12.142 4.992 13.168 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.8"/>
+          <polygon points="13.168 6.015 12.14 4.992 9.359 4.992 8.336 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.9"/>
+          <polygon points="8.334 6.015 9.359 4.99 9.359 2.208 8.334 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.10"/>
+          <rect x="16.562" y="2.208" width="2.779" height="2.782" gorn="0.2.17.0.0.0.0.11"/>
+          <polygon points="15.535 1.183 16.558 2.208 19.344 2.208 20.369 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.12"/>
+          <polygon points="20.369 1.183 19.344 2.211 19.344 4.992 20.369 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.13"/>
+          <polygon points="20.367 6.015 19.344 4.992 16.558 4.992 15.535 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.14"/>
+          <polygon points="15.535 6.015 16.558 4.99 16.558 2.208 15.535 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.15"/>
+          <rect x="23.763" y="2.208" width="2.781" height="2.782" gorn="0.2.17.0.0.0.0.16"/>
+          <polygon points="22.736 1.183 23.762 2.208 26.545 2.208 27.568 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.17"/>
+          <polygon points="27.568 1.183 26.545 2.211 26.545 4.992 27.568 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.18"/>
+          <polygon points="27.568 6.015 26.543 4.992 23.762 4.992 22.736 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.19"/>
+          <polygon points="22.734 6.015 23.762 4.99 23.762 2.208 22.734 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.20"/>
+          <rect x="30.963" y="2.208" width="2.779" height="2.782" gorn="0.2.17.0.0.0.0.21"/>
+          <polygon points="29.935 1.183 30.961 2.208 33.744 2.208 34.767 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.22"/>
+          <polygon points="34.767 1.183 33.744 2.211 33.744 4.992 34.767 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.23"/>
+          <polygon points="34.765 6.015 33.742 4.992 30.961 4.992 29.935 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.24"/>
+          <polygon points="29.933 6.015 30.961 4.99 30.961 2.208 29.933 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.25"/>
+          <rect x="38.164" y="2.208" width="2.779" height="2.782" gorn="0.2.17.0.0.0.0.26"/>
+          <polygon points="37.137 1.183 38.16 2.208 40.943 2.208 41.97 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.27"/>
+          <polygon points="41.97 1.183 40.943 2.211 40.943 4.992 41.97 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.28"/>
+          <polygon points="41.97 6.015 40.94 4.992 38.16 4.992 37.137 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.29"/>
+          <polygon points="37.135 6.015 38.16 4.99 38.16 2.208 37.135 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.30"/>
+          <rect x="45.361" y="2.208" width="2.78" height="2.782" gorn="0.2.17.0.0.0.0.31"/>
+          <polygon points="44.339 1.183 45.359 2.208 48.141 2.208 49.17 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.32"/>
+          <polygon points="49.17 1.183 48.141 2.211 48.141 4.992 49.17 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.33"/>
+          <polygon points="49.168 6.015 48.139 4.992 45.359 4.992 44.339 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.34"/>
+          <polygon points="44.336 6.015 45.359 4.99 45.359 2.208 44.336 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.35"/>
+          <rect x="52.561" y="2.208" width="2.779" height="2.782" gorn="0.2.17.0.0.0.0.36"/>
+          <polygon points="51.535 1.183 52.557 2.208 55.345 2.208 56.367 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.37"/>
+          <polygon points="56.367 1.183 55.345 2.211 55.345 4.992 56.367 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.38"/>
+          <polygon points="56.367 6.015 55.345 4.992 52.557 4.992 51.535 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.39"/>
+          <polygon points="51.533 6.015 52.557 4.99 52.557 2.208 51.533 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.40"/>
+          <rect x="59.762" y="2.208" width="2.78" height="2.782" gorn="0.2.17.0.0.0.0.41"/>
+          <polygon points="58.736 1.183 59.762 2.208 62.546 2.208 63.568 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.42"/>
+          <polygon points="63.568 1.183 62.546 2.211 62.546 4.992 63.568 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.43"/>
+          <polygon points="63.565 6.015 62.543 4.992 59.762 4.992 58.736 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.44"/>
+          <polygon points="58.734 6.015 59.762 4.99 59.762 2.208 58.734 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.45"/>
+          <rect x="66.964" y="2.208" width="2.778" height="2.782" gorn="0.2.17.0.0.0.0.46"/>
+          <polygon points="65.934 1.183 66.961 2.208 69.742 2.208 70.766 1.183" style="fill:#2a2a29" gorn="0.2.17.0.0.0.0.47"/>
+          <polygon points="70.766 1.183 69.742 2.211 69.742 4.992 70.766 6.015" style="fill:#474747" gorn="0.2.17.0.0.0.0.48"/>
+          <polygon points="70.764 6.015 69.742 4.992 66.961 4.992 65.934 6.015" style="fill:#595959" gorn="0.2.17.0.0.0.0.49"/>
+          <polygon points="65.932 6.015 66.961 4.99 66.961 2.208 65.932 1.183" style="fill:#373737" gorn="0.2.17.0.0.0.0.50"/>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+   <rect transform="matrix(.8 0 0 .8 0 -.00030206)" x="127.1" y="229.29" width="4.7326" height="6.6482" style="fill:#0f0"/>
+  </g>
+ </g>
+ <g style="opacity:.927">
+  <g transform="matrix(1.4441 0 0 1.3948 48.069 95.35)">
+   <use transform="translate(4,5)" width="100%" height="100%" style="opacity:.2" xlink:href="#path3321"/>
+   <use transform="translate(2,3)" width="100%" height="100%" style="opacity:.2" xlink:href="#path3321"/>
+   <path id="path3321" d="m138.3 98.146c5.93 0 10.736-4.303 10.736-9.609v-78.075c0-5.307-4.807-9.608-10.736-9.608h-126.59c-5.93 0-10.736 4.303-10.736 9.609v78.074c0 5.307 4.807 9.609 10.736 9.609z"/>
+   <rect x="7.75" y="6.75" width="134.5" height="85.5" style="fill:url(#XMLID_12_-7)"/>
+   <rect x="10.371" y="6.75" width="129.26" height="82.167" style="fill:url(#XMLID_13_-5)"/>
+   <g id="g3376">
+    <rect x="98.357" y="6.624" width="13" height="50.5"/>
+    <path id="path3362" d="m101.36 9.624h7v44.5h-7v-44.5z" style="fill:url(#linearGradient19672)"/>
+   </g>
+   <g id="g3383">
+    <rect x="121.86" y="6.624" width="13" height="50.5"/>
+    <use transform="translate(23)" width="100%" height="100%" xlink:href="#path3362"/>
+   </g>
+   <use transform="translate(-58)" width="100%" height="100%" xlink:href="#g3383"/>
+   <use transform="translate(-105)" width="100%" height="100%" xlink:href="#g3383"/>
+   <use transform="translate(-58)" width="100%" height="100%" xlink:href="#g3376"/>
+  </g>
+ </g>
+</svg>
