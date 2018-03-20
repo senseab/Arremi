@@ -1,18 +1,7 @@
 package backend
 
-/*
-#ifndef ARREMI
-#define ARREMI
-#cgo LDFLAGS: -lasound
-#include <stdlib.h>
-#include "alsa_wrapper.h"
-#endif
-*/
-import "C"
 import (
-	"fmt"
-	"unsafe"
-
+	alsa "github.com/tonychee7000/Arremi/backend/alsa_wrapper"
 	"github.com/tonychee7000/Arremi/consts"
 )
 
@@ -30,30 +19,16 @@ func NewMIDIDevice() (*MIDIDevice, error) {
 
 // Init the client and source
 func (midiDev *MIDIDevice) Init() error {
-	var status int
-
+	var err error
 	midiDev.Signal = make(chan int, 4096)
-
-	cDevName := C.CString(consts.ClientName)
-	defer C.free(unsafe.Pointer(cDevName))
-	status = int(C.new_client(cDevName))
-	if status != 0 {
-		stage, errCode := resolveErrCode(status)
-		switch stage {
-		case 1:
-			return fmt.Errorf("Error while opening sequencer. %d", errCode)
-		case 2:
-			return fmt.Errorf("Error while getting sequencer id. %d", errCode)
-		case 3:
-			return fmt.Errorf("Error while setting sequencer name. %d", errCode)
-		}
+	err = alsa.NewClient(consts.ClientName)
+	if err != nil {
+		return err
 	}
 
-	cPortName := C.CString(consts.SourceName)
-	defer C.free(unsafe.Pointer(cPortName))
-	status = int(C.new_port(cPortName))
-	if status != 0 {
-		return fmt.Errorf("Error while createing sequencer port. %d", status)
+	err = alsa.NewPort(consts.SourceName)
+	if err != nil {
+		return err
 	}
 
 	return nil
@@ -61,20 +36,7 @@ func (midiDev *MIDIDevice) Init() error {
 
 func (midiDev *MIDIDevice) Write(p []byte) (int, error) {
 	midiDev.Signal <- 1
-	cData := (*C.char)(unsafe.Pointer(&p[0]))
-	defer C.free(unsafe.Pointer(cData))
-	var status = int(C.send_data(cData, C.int(len(p))))
-	if status != 0 {
-		stage, errCode := resolveErrCode(status)
-		switch stage {
-		case 1:
-			return 0, fmt.Errorf("Error while creating MIDI event. %d", errCode)
-		case 2:
-			return 0, fmt.Errorf("Error while encoding MIDI event. %d", errCode)
-		case 3:
-			return 0, fmt.Errorf("Error while sending data. %d", errCode)
-		}
-	}
+	alsa.SendData(p)
 	return len(p), nil
 }
 
@@ -85,8 +47,4 @@ func (midiDev *MIDIDevice) AllNoteOff() {
 			midiDev.Write([]byte{byte(0x90 + i), byte(j), 0})
 		}
 	}
-}
-
-func resolveErrCode(code int) (int, int) {
-	return code >> 16, code & 0xffff
 }
