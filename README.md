@@ -5,7 +5,11 @@ Arremi
 
 Arremi is a simple driver/router from Arduino USB serial to MIDI
 
-Now only for OSX
+**Linux support not completed yet!**
 
-Linux would be later.
+## Build
+```
+go get -v github.com/tonychee7000/Arremi
+
+```
 
